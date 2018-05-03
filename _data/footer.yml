@@ -1,14 +1,14 @@
 - name:
-  link: https://facebook.com/
+  link: http://www.facebook.com/cmpnycowork
   new_window: true
   social_icon: Facebook
 - name:
-  link: https://twitter.com/
+  link: http://www.twitter.com/cmpnycowork
   social_icon: Twitter
   new_window: true
 - name:
-  link: https://youtube.com/
-  social_icon: YouTube
+  link: http://www.instagram.com/cmpnycowork
+  social_icon: Instagram
   new_window: true
 - name: 
   link: /feed.xml
