@@ -25,10 +25,6 @@
 <lastmod>2017-01-15T00:00:00-08:00</lastmod>
 </url>
 <url>
-<loc>https://kb.cmpny.com/billing/add-a-credit-card/</loc>
-<lastmod>2017-01-16T00:00:00-08:00</lastmod>
-</url>
-<url>
 <loc>https://kb.cmpny.com/deployment/azure/</loc>
 <lastmod>2017-01-16T00:00:00-08:00</lastmod>
 </url>
@@ -137,6 +133,10 @@
 <lastmod>2017-01-16T00:00:00-08:00</lastmod>
 </url>
 <url>
+<loc>https://kb.cmpny.com/network/getting-started/print%20services/printer-setup-mac-os-x/</loc>
+<lastmod>2018-03-05T16:00:00-08:00</lastmod>
+</url>
+<url>
 <loc>https://kb.cmpny.com/getting-started/bring-your-own-printer-byop/</loc>
 <lastmod>2018-05-03T16:00:00-07:00</lastmod>
 </url>
@@ -169,5 +169,11 @@
 </url>
 <url>
 <loc>https://kb.cmpny.com/category/plugins/</loc>
+</url>
+<url>
+<loc>https://kb.cmpny.com/category/network/</loc>
+</url>
+<url>
+<loc>https://kb.cmpny.com/category/print-services/</loc>
 </url>
 </urlset>
