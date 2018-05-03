@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="https://kb.cmpny.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://kb.cmpny.com/" rel="alternate" type="text/html" /><updated>2018-05-03T16:35:03-07:00</updated><id>https://kb.cmpny.com/</id><title type="html">CMPNY KB</title><subtitle>IT Knowledge Base by Tech Futures.</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><entry><title type="html">Bring Your Own Printer (BYOP)</title><link href="https://kb.cmpny.com/getting-started/bring-your-own-printer-byop/" rel="alternate" type="text/html" title="Bring Your Own Printer (BYOP)" /><published>2018-05-03T16:00:00-07:00</published><updated>2018-05-03T16:00:00-07:00</updated><id>https://kb.cmpny.com/getting-started/bring-your-own-printer-byop</id><content type="html" xml:base="https://kb.cmpny.com/getting-started/bring-your-own-printer-byop/">&lt;p&gt;If you would like to connect your own printer to the network please follow the steps below:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="https://kb.cmpny.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://kb.cmpny.com/" rel="alternate" type="text/html" /><updated>2018-05-03T16:36:19-07:00</updated><id>https://kb.cmpny.com/</id><title type="html">CMPNY KB</title><subtitle>IT Knowledge Base by Tech Futures.</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><entry><title type="html">Bring Your Own Printer (BYOP)</title><link href="https://kb.cmpny.com/getting-started/bring-your-own-printer-byop/" rel="alternate" type="text/html" title="Bring Your Own Printer (BYOP)" /><published>2018-05-03T16:00:00-07:00</published><updated>2018-05-03T16:00:00-07:00</updated><id>https://kb.cmpny.com/getting-started/bring-your-own-printer-byop</id><content type="html" xml:base="https://kb.cmpny.com/getting-started/bring-your-own-printer-byop/">&lt;p&gt;If you would like to connect your own printer to the network please follow the steps below:&lt;/p&gt;
 
 &lt;h2 id=&quot;1-connect-your-printer-to-the-network&quot;&gt;1. Connect your printer to the network&lt;/h2&gt;
 
@@ -39,19 +39,21 @@ E0553D8CC3F3
 
 &lt;h2 id=&quot;3-next-steps&quot;&gt;3. Next steps&lt;/h2&gt;
 
-&lt;p&gt;Building a Jekyll site with the default theme is just the first step. The real magic happens when you start creating blog posts, using the front matter to control templates and layouts, and taking advantage of all the awesome configuration options Jekyll makes available.&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">If you would like to connect your own printer to the network please follow the steps below:</summary></entry><entry><title type="html">Printer Setup - Mac OS X</title><link href="https://kb.cmpny.com/network/getting-started/print%20services/printer-setup-mac-os-x/" rel="alternate" type="text/html" title="Printer Setup - Mac OS X" /><published>2018-03-05T16:00:00-08:00</published><updated>2018-03-05T16:00:00-08:00</updated><id>https://kb.cmpny.com/network/getting-started/print%20services/printer-setup---mac-os-x</id><content type="html" xml:base="https://kb.cmpny.com/network/getting-started/print%20services/printer-setup-mac-os-x/">&lt;p&gt;Install the drivers and client app or use email-to-print to quickly get started. Spacekraft Print Services powered by Tech Futures provides full colour, black and white full duplex printing, automatic stapling, scanning, fax and copying capabilities. &lt;/p&gt;
+&lt;p&gt;Building a Jekyll site with the default theme is just the first step. The real magic happens when you start creating blog posts, using the front matter to control templates and layouts, and taking advantage of all the awesome configuration options Jekyll makes available.&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">If you would like to connect your own printer to the network please follow the steps below:</summary></entry><entry><title type="html">Printer Setup - Mac OS X</title><link href="https://kb.cmpny.com/network/getting-started/print%20services/burnaby/printer-setup-mac-os-x/" rel="alternate" type="text/html" title="Printer Setup - Mac OS X" /><published>2018-03-05T16:00:00-08:00</published><updated>2018-03-05T16:00:00-08:00</updated><id>https://kb.cmpny.com/network/getting-started/print%20services/burnaby/printer-setup---mac-os-x</id><content type="html" xml:base="https://kb.cmpny.com/network/getting-started/print%20services/burnaby/printer-setup-mac-os-x/">&lt;p&gt;&lt;u&gt;&lt;em&gt;&lt;strong&gt;This Article applies to Burnaby Only&lt;/strong&gt;&lt;/em&gt;&lt;/u&gt;&lt;/p&gt;
 
-&lt;p&gt;Please note that that the links below will only work if you are connected to “Spacekraft” wifi network.&lt;/p&gt;
+&lt;p&gt;Install the drivers and client app or use email-to-print to quickly get started. Spacekraft Print Services powered by Tech Futures provides full colour, black and white full duplex printing, automatic stapling, scanning, fax and copying capabilities. &lt;/p&gt;
 
-&lt;p&gt;Step 1: Create a new password&lt;/p&gt;
+&lt;p&gt;&lt;u&gt;&lt;strong&gt;Please note that that the links below will only work if you are connected to &amp;ldquo;Spacekraft&amp;rdquo; wifi network.&lt;/strong&gt;&lt;/u&gt;&lt;/p&gt;
 
-&lt;p&gt;Head over to the Accounts Management Portal and create a new password for your account.&lt;/p&gt;
+&lt;h2 id=&quot;step-1-create-a-new-password&quot;&gt;Step 1: Create a new password&lt;/h2&gt;
 
-&lt;p&gt;Your username is in the format of first name (dot) last name, for example Captain.Kirk.  Your password is the same network password for the rest of Spacekraft’s IT Services, for further information please visit the Create a new password guide.&lt;/p&gt;
+&lt;p&gt;Head over to the &lt;strong&gt;&lt;a href=&quot;http://accounts.cmpny.com/pwm&quot; target=&quot;_blank&quot;&gt;Accounts Management Portal&lt;/a&gt;&lt;/strong&gt; and create a new password for your account.&lt;/p&gt;
 
-&lt;p&gt;Step 2: Download drivers and client app&lt;/p&gt;
+&lt;p&gt;Your username is in the format of first name (dot) last name, for example Captain.Kirk.  &lt;br /&gt;Your password is the same network password for the rest of Spacekraft’s IT Services, for further information please visit the &lt;u&gt;&lt;strong&gt;Create a New Password&lt;/strong&gt;&lt;/u&gt; guide.&lt;/p&gt;
 
-&lt;p&gt;Download the client application and drivers.&lt;/p&gt;
+&lt;h2 id=&quot;step-2-download-drivers-and-client-app&quot;&gt;Step 2: Download drivers and client app&lt;/h2&gt;
+
+&lt;p&gt;Download the &lt;a href=&quot;http://spacekraft.goprint.xyz/client/mac.zip&quot;&gt;&lt;strong&gt;Client Application&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&quot;http://spacekraft.goprint.xyz/drivers/mac_drivers.zip&quot;&gt;&lt;strong&gt;Drivers&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Once you have downloaded the client app, (right/control-clicking and selecting “Open”) open the file labeled client-local-install. After that is complete, install the drivers.&lt;/p&gt;
 
@@ -61,21 +63,21 @@ E0553D8CC3F3
 
 &lt;p&gt;Once open, right click (control+click) the top toolbar and select Customize Toolbar. Drag and drop the Advanced icon into the toolbar.&lt;/p&gt;
 
-&lt;p&gt;Step 4: Add Printer&lt;/p&gt;
+&lt;h2 id=&quot;step-4-add-printer&quot;&gt;Step 4: Add Printer&lt;/h2&gt;
 
 &lt;p&gt;Under the Advanced tab, copy the image below.&lt;/p&gt;
 
 &lt;p&gt;Enter the same information as shown in Type, Device and URL. You may use any Name and Location you want. For the Use field select Select Software… and choose the driver named HP LaserJet 700 Color MFP M775.&lt;/p&gt;
 
-&lt;p&gt;Step 4.1: Configure Printer&lt;/p&gt;
+&lt;h3 id=&quot;step-41-configure-printer&quot;&gt;Step 4.1: Configure Printer&lt;/h3&gt;
 
 &lt;p&gt;Set Tray 3 as HP 1500-Sheet Input Tray and Tray 4 as HP 2000-Sheet Input Tray. On the bottom, check the box next to HP 500-Sheet Stapler/Stacker.&lt;/p&gt;
 
-&lt;p&gt;Step 4.2: Printer Authentication&lt;/p&gt;
+&lt;h3 id=&quot;step-42-printer-authentication&quot;&gt;Step 4.2: Printer Authentication&lt;/h3&gt;
 
 &lt;p&gt;A popup window may appear asking for a name and password. Enter “SPACEKRAFT\” followed by the same username and password as in step 1.&lt;/p&gt;
 
-&lt;p&gt;Step 5: Setup Complete&lt;/p&gt;
+&lt;h2 id=&quot;step-5-setup-complete&quot;&gt;Step 5: Setup Complete&lt;/h2&gt;
 
 &lt;p&gt;Once you have completed the above steps, you should see a screen similar the the one below.&lt;/p&gt;
 
@@ -87,7 +89,7 @@ E0553D8CC3F3
 
 &lt;p&gt;If you have successfully printed a document, the following message will appear.&lt;/p&gt;
 
-&lt;p&gt;Proceed to the printer to release your document. See the guide on using print release for more information.&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">Install the drivers and client app or use email-to-print to quickly get started. Spacekraft Print Services powered by Tech Futures provides full colour, black and white full duplex printing, automatic stapling, scanning, fax and copying capabilities. </summary></entry><entry><title type="html">Urban</title><link href="https://kb.cmpny.com/themes/urban/" rel="alternate" type="text/html" title="Urban" /><published>2017-01-16T00:00:00-08:00</published><updated>2017-01-16T00:00:00-08:00</updated><id>https://kb.cmpny.com/themes/urban</id><content type="html" xml:base="https://kb.cmpny.com/themes/urban/">&lt;p&gt;Jekyll is a simple, blog-aware, static site generator. It takes a template directory containing raw text files in various formats, runs it through a converter (like Markdown) and our Liquid renderer, and spits out a complete, ready-to-publish static website suitable for serving with your favorite web server.&lt;/p&gt;
+&lt;p&gt;Proceed to the printer to release your document. See the guide on using print release for more information.&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">This Article applies to Burnaby Only</summary></entry><entry><title type="html">Urban</title><link href="https://kb.cmpny.com/themes/urban/" rel="alternate" type="text/html" title="Urban" /><published>2017-01-16T00:00:00-08:00</published><updated>2017-01-16T00:00:00-08:00</updated><id>https://kb.cmpny.com/themes/urban</id><content type="html" xml:base="https://kb.cmpny.com/themes/urban/">&lt;p&gt;Jekyll is a simple, blog-aware, static site generator. It takes a template directory containing raw text files in various formats, runs it through a converter (like Markdown) and our Liquid renderer, and spits out a complete, ready-to-publish static website suitable for serving with your favorite web server.&lt;/p&gt;
 
 &lt;p&gt;If you already have a full Ruby development environment with all headers and RubyGems installed, you can create a new Jekyll site by doing the following:&lt;/p&gt;
 
