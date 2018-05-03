@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="https://kb.cmpny.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://kb.cmpny.com/" rel="alternate" type="text/html" /><updated>2018-05-03T16:56:40-07:00</updated><id>https://kb.cmpny.com/</id><title type="html">CMPNY KB</title><subtitle>IT Knowledge Base by Tech Futures.</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><entry><title type="html">Bring Your Own Printer (BYOP)</title><link href="https://kb.cmpny.com/getting-started/bring-your-own-printer-byop/" rel="alternate" type="text/html" title="Bring Your Own Printer (BYOP)" /><published>2018-05-03T16:00:00-07:00</published><updated>2018-05-03T16:00:00-07:00</updated><id>https://kb.cmpny.com/getting-started/bring-your-own-printer-byop</id><content type="html" xml:base="https://kb.cmpny.com/getting-started/bring-your-own-printer-byop/">&lt;p&gt;If you would like to connect your own printer to the network please follow the steps below:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="https://kb.cmpny.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://kb.cmpny.com/" rel="alternate" type="text/html" /><updated>2018-05-03T16:58:12-07:00</updated><id>https://kb.cmpny.com/</id><title type="html">CMPNY KB</title><subtitle>IT Knowledge Base by Tech Futures.</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><entry><title type="html">Bring Your Own Printer (BYOP)</title><link href="https://kb.cmpny.com/getting-started/bring-your-own-printer-byop/" rel="alternate" type="text/html" title="Bring Your Own Printer (BYOP)" /><published>2018-05-03T16:00:00-07:00</published><updated>2018-05-03T16:00:00-07:00</updated><id>https://kb.cmpny.com/getting-started/bring-your-own-printer-byop</id><content type="html" xml:base="https://kb.cmpny.com/getting-started/bring-your-own-printer-byop/">&lt;p&gt;If you would like to connect your own printer to the network please follow the steps below:&lt;/p&gt;
 
 &lt;h2 id=&quot;1-connect-your-printer-to-the-network&quot;&gt;1. Connect your printer to the network&lt;/h2&gt;
 
@@ -39,63 +39,11 @@ E0553D8CC3F3
 
 &lt;h2 id=&quot;3-next-steps&quot;&gt;3. Next steps&lt;/h2&gt;
 
-&lt;p&gt;Building a Jekyll site with the default theme is just the first step. The real magic happens when you start creating blog posts, using the front matter to control templates and layouts, and taking advantage of all the awesome configuration options Jekyll makes available.&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">If you would like to connect your own printer to the network please follow the steps below:</summary></entry><entry><title type="html">Printer Setup - Windows</title><link href="https://kb.cmpny.com/print%20services%20(burnaby)/printer-setup-windows/" rel="alternate" type="text/html" title="Printer Setup - Windows" /><published>2018-03-05T16:00:00-08:00</published><updated>2018-03-05T16:00:00-08:00</updated><id>https://kb.cmpny.com/print%20services%20(burnaby)/printer-setup---windows</id><content type="html" xml:base="https://kb.cmpny.com/print%20services%20(burnaby)/printer-setup-windows/">&lt;p&gt;&lt;u&gt;&lt;em&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/u&gt;Install the drivers and client app or use email-to-print to quickly get started. Spacekraft Print Services powered by Tech Futures provides full colour, black and white full duplex printing, automatic stapling, scanning, fax and copying capabilities. &lt;/p&gt;
+&lt;p&gt;Building a Jekyll site with the default theme is just the first step. The real magic happens when you start creating blog posts, using the front matter to control templates and layouts, and taking advantage of all the awesome configuration options Jekyll makes available.&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">If you would like to connect your own printer to the network please follow the steps below:</summary></entry><entry><title type="html">Unable to Contact Server - Error</title><link href="https://kb.cmpny.com/print%20services%20(burnaby)/unable-to-contact-server-error/" rel="alternate" type="text/html" title="Unable to Contact Server - Error" /><published>2018-03-05T16:00:00-08:00</published><updated>2018-03-05T16:00:00-08:00</updated><id>https://kb.cmpny.com/print%20services%20(burnaby)/unable-to-contact-server---error</id><content type="html" xml:base="https://kb.cmpny.com/print%20services%20(burnaby)/unable-to-contact-server-error/">&lt;p&gt;&lt;u&gt;&lt;em&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/u&gt;&lt;/p&gt;
 
-&lt;p&gt;Please note that that the links below will only work if you are connected to “Spacekraft” wifi network.&lt;/p&gt;
+&lt;p&gt;When attempting to use a fob to login to the printer a popup screen with the message “Unable to Contact Server” may appear.&lt;/p&gt;
 
-&lt;p&gt;Step 1: Create a new password&lt;/p&gt;
-
-&lt;p&gt;Head over to the Accounts Management Portal and create a new password for your account.&lt;/p&gt;
-
-&lt;p&gt;Your username is in the format of first name (dot) last name, for example Captain.Kirk. Your password is the same network password for the rest of Spacekraft’s IT Services, for further information please visit the Create a new password guide.&lt;/p&gt;
-
-&lt;p&gt;Step 2: Download drivers and client app&lt;/p&gt;
-
-&lt;p&gt;Download the client application.&lt;/p&gt;
-
-&lt;p&gt;Once you have downloaded the client app zip folder, extract it first then launch the file labeled client-local-install.&lt;/p&gt;
-
-&lt;p&gt;You may be prompted to login using the same username and password as in step 1.&lt;/p&gt;
-
-&lt;p&gt;Once you have successfully logged in, you should see the account balance window.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt; &lt;/p&gt;
-
-&lt;p&gt;Step 3: Open Printers and Scanners&lt;/p&gt;
-
-&lt;p&gt;Open Contorl Panel, then open Devices &amp;amp; Printers.&lt;/p&gt;
-
-&lt;p&gt;Once open, click Add Printer on the top toolbar. The following window will appear, choose The Printer that I want isn’t listed.&lt;/p&gt;
-
-&lt;p&gt;Step 4: Add Printer&lt;/p&gt;
-
-&lt;p&gt;Select the shared printer by name option, and copy the image by entering \\10.210.10.3\HP MFP&lt;/p&gt;
-
-&lt;p&gt;Installation may take 1-5 minutes, and the following screen will appear.&lt;/p&gt;
-
-&lt;p&gt;A popup window may appear asking for a name and password. Enter “SPACEKRAFT\” followed by the same username and password as in step 1.&lt;/p&gt;
-
-&lt;p&gt;Once the printer has been successfully added you will see the following screen.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt; &lt;/p&gt;
-
-&lt;p&gt;Step 4.1: Configure Printer&lt;/p&gt;
-
-&lt;p&gt;Right click the printer and select Printer properties.&lt;/p&gt;
-
-&lt;p&gt;Select the Device Settings tab and set Tray 3 as HP 1500-Sheet Input Tray and Tray 4 as HP 2000-Sheet Input Tray.&lt;/p&gt;
-
-&lt;p&gt;Setup Complete&lt;/p&gt;
-
-&lt;p&gt;First time printing&lt;/p&gt;
-
-&lt;p&gt;The first time you print a document a popup window will appear requiring your username and password. Enter your same username and password as in step 1. You may choose for your computer to remember your username/password until you logout so it will not prompt you every time you print.&lt;/p&gt;
-
-&lt;p&gt;Success!&lt;/p&gt;
-
-&lt;p&gt;If you have successfully printed a document, a message will appear saying your document has been held in a queue.&lt;/p&gt;
-
-&lt;p&gt;Proceed to the printer to release your document. See the guide on using print release for more information.&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">Install the drivers and client app or use email-to-print to quickly get started. Spacekraft Print Services powered by Tech Futures provides full colour, black and white full duplex printing, automatic stapling, scanning, fax and copying capabilities. </summary></entry><entry><title type="html">Printer Setup - Windows</title><link href="https://kb.cmpny.com/print%20services%20(burnaby)/printer-setup-windows-copy/" rel="alternate" type="text/html" title="Printer Setup - Windows" /><published>2018-03-05T16:00:00-08:00</published><updated>2018-03-05T16:00:00-08:00</updated><id>https://kb.cmpny.com/print%20services%20(burnaby)/printer-setup---windows-copy</id><content type="html" xml:base="https://kb.cmpny.com/print%20services%20(burnaby)/printer-setup-windows-copy/">&lt;p&gt;&lt;u&gt;&lt;em&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/u&gt;Install the drivers and client app or use email-to-print to quickly get started. Spacekraft Print Services powered by Tech Futures provides full colour, black and white full duplex printing, automatic stapling, scanning, fax and copying capabilities. &lt;/p&gt;
+&lt;p&gt;If it does, please wait 5-10 seconds and try again. This is caused when the printer is in sleep mode for an extended period of time.&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html"></summary></entry><entry><title type="html">Printer Setup - Windows</title><link href="https://kb.cmpny.com/print%20services%20(burnaby)/printer-setup-windows/" rel="alternate" type="text/html" title="Printer Setup - Windows" /><published>2018-03-05T16:00:00-08:00</published><updated>2018-03-05T16:00:00-08:00</updated><id>https://kb.cmpny.com/print%20services%20(burnaby)/printer-setup---windows</id><content type="html" xml:base="https://kb.cmpny.com/print%20services%20(burnaby)/printer-setup-windows/">&lt;p&gt;&lt;u&gt;&lt;em&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/u&gt;Install the drivers and client app or use email-to-print to quickly get started. Spacekraft Print Services powered by Tech Futures provides full colour, black and white full duplex printing, automatic stapling, scanning, fax and copying capabilities. &lt;/p&gt;
 
 &lt;p&gt;Please note that that the links below will only work if you are connected to “Spacekraft” wifi network.&lt;/p&gt;
 
