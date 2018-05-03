@@ -16,25 +16,27 @@ Install the drivers and client app or use email-to-print to quickly get started.
 
 <u><strong>Please note that that the links below will only work if you are connected to &ldquo;Spacekraft&rdquo; wifi network.</strong></u>
 
-## Step 1: Create a new password
+## Step 1: Create a new password[#](#step-1-create-a-new-password){: .header-link}
 
 Head over to the **[Accounts Management Portal](http://accounts.cmpny.com/pwm){: target="_blank"}** and create a new password for your account.
 
-Your username is in the format of first name (dot) last name, for example Captain.Kirk. &nbsp;<br>Your password is the same network password for the rest of Spacekraft’s IT Services, for further information please visit the <u><strong>Create a New Password</strong></u> guide.
+Your username is in the format of first name (dot) last name, for example Captain.Kirk. &nbsp;<br>Your password is the same network password for the rest of Spacekraft’s IT Services, for further information please visit the [<u><strong>Create a New Password</strong></u>](http://support.spacekraft.co/support/solutions/articles/1000019662-create-a-new-password){: target="_blank"} guide.
 
-## Step 2: Download drivers and client app
+## Step 2: Download drivers and client app[#](#step-2-download-drivers-and-client-app){: .header-link}
 
 Download the [**Client Application**](http://spacekraft.goprint.xyz/client/mac.zip) and [**Drivers**](http://spacekraft.goprint.xyz/drivers/mac_drivers.zip).
 
 Once you have downloaded the client app, (right/control-clicking and selecting “Open”) open the file labeled client-local-install. After that is complete, install the drivers.
 
-Step 3: Open Printers and Scanners
+![](blob:https://app.cloudcannon.com/40d8fb51-1812-40a8-8f68-722f25a36ba3)
+
+## Step 3: Open Printers and Scanners
 
 Open System Preferences, then open Printers & Scanners.
 
 Once open, right click (control+click) the top toolbar and select Customize Toolbar. Drag and drop the Advanced icon into the toolbar.
 
-## Step 4: Add Printer
+## Step 4: Add Printer[#](#step-4-add-printer){: .header-link}
 
 Under the Advanced tab, copy the image below.
 
@@ -48,7 +50,7 @@ Set Tray 3 as HP 1500-Sheet Input Tray and Tray 4 as HP 2000-Sheet Input Tray. O
 
 A popup window may appear asking for a name and password. Enter “SPACEKRAFT\\” followed by the same username and password as in step 1.
 
-## Step 5: Setup Complete
+## Step 5: Setup Complete[#](#step-5-setup-complete){: .header-link}
 
 Once you have completed the above steps, you should see a screen similar the the one below.
 
