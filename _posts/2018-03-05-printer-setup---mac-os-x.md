@@ -17,7 +17,9 @@ Install the drivers and client app or use email-to-print to quickly get started.
 
 Head over to the **[Accounts Management Portal](http://accounts.cmpny.com/pwm){: target="_blank"}** and create a new password for your account.
 
-Your username is in the format of first name (dot) last name, for example Captain.Kirk. &nbsp;<br>Your password is the same network password for the rest of Spacekraft’s IT Services, for further information please visit the [<u><strong>Create a New Password</strong></u>](/getting-started/create-a-new-password/){: target="_blank"} guide.
+Your username is in the format of first name (dot) last name, for example Captain.Kirk. &nbsp;<br>Your password is the same network password for the rest of Spacekraft’s IT Services.
+
+For further information please visit the [<u><strong>Create a New Password</strong></u>](/getting-started/create-a-new-password/){: target="_blank"} guide.
 
 ## Step 2: Download drivers and client app[#](#step-2-download-drivers-and-client-app){: .header-link}
 
