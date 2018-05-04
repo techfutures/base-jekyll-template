@@ -2,7 +2,7 @@
 date: 2018-03-05 16:00:00 -0800
 title: Which Wireless Networks to Use and How to Connect
 categories:
-  - getting-started
+  - Network (Spacekraft)
 description:
 type: Document
 ---
@@ -13,11 +13,11 @@ There are 4 wireless networks available for use at Spackeraft. This guide will o
 
 ### Spacekraft
 
-Description: This is the primary network available for all Spacekraft members.&nbsp;
+Description: This is the primary network available for all Spacekraft members. 
 
 Function: It isolates all devices connected to it, meaning one devices cannot see or talk to another device on the network. To access the internet and Spackeraft Printer.
 
-Use: To connect, look for Spacekraft network. For the password please see the front desk or login to this portal then see the Wireless Networks Passwords page.&nbsp;
+Use: To connect, look for Spacekraft network. For the password please see the front desk or login to this portal then see the Wireless Networks Passwords page. 
 
 ### Spacekraft Shared
 
@@ -25,7 +25,7 @@ Description: For private office members to share devices within their own office
 
 Function: To share legacy devices such as personal printers or any devices that does not support WPA2-Enterprise authentication. For private office members, if it is a printer or example no one else will be able to view it except those in your office or organization.
 
-Use: For private office members, connect your devices to Spacekraft Shared network. For the password please see the front desk or login to this portal then see the Wireless Networks Passwords page. &nbsp;On the support portal, click request new service, select Networking Provisioning &gt; Add legacy device, and fill out the required information. For other members wishing to share files for example simply connect both devices to the Spaekraft Shared network.
+Use: For private office members, connect your devices to Spacekraft Shared network. For the password please see the front desk or login to this portal then see the Wireless Networks Passwords page.  On the support portal, click request new service, select Networking Provisioning &gt; Add legacy device, and fill out the required information. For other members wishing to share files for example simply connect both devices to the Spaekraft Shared network.
 
 ### Spacekraft Private
 
@@ -41,4 +41,4 @@ Description: For guests and events to access the internet.
 
 Function: It is a throttled network with bandwidth restrictions to allow guests to easily connect to the internet without any username or password.
 
-Use: There is no authentication required, however you will need to accept the terms of service. When you connect open a web browser and navigate to any webpage, and you will be promoted with a splash page.&nbsp;
+Use: There is no authentication required, however you will need to accept the terms of service. When you connect open a web browser and navigate to any webpage, and you will be promoted with a splash page.
