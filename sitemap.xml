@@ -1,18 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://kb.cmpny.com/deployment/client-editable-jekyll-sites/</loc>
-<lastmod>2017-01-15T00:00:00-08:00</lastmod>
-</url>
-<url>
-<loc>https://kb.cmpny.com/getting-started/file-structure/</loc>
-<lastmod>2017-01-15T00:00:00-08:00</lastmod>
-</url>
-<url>
-<loc>https://kb.cmpny.com/account-settings/front-matter/</loc>
-<lastmod>2017-01-15T00:00:00-08:00</lastmod>
-</url>
-<url>
 <loc>https://kb.cmpny.com/deployment/azure/</loc>
 <lastmod>2017-01-16T00:00:00-08:00</lastmod>
 </url>
@@ -204,19 +192,19 @@
 <loc>https://kb.cmpny.com/category/deployment/</loc>
 </url>
 <url>
-<loc>https://kb.cmpny.com/category/getting-started/</loc>
+<loc>https://kb.cmpny.com/category/themes/</loc>
 </url>
 <url>
 <loc>https://kb.cmpny.com/category/account-settings/</loc>
-</url>
-<url>
-<loc>https://kb.cmpny.com/category/themes/</loc>
 </url>
 <url>
 <loc>https://kb.cmpny.com/category/plugins/</loc>
 </url>
 <url>
 <loc>https://kb.cmpny.com/category/billing/</loc>
+</url>
+<url>
+<loc>https://kb.cmpny.com/category/getting-started/</loc>
 </url>
 <url>
 <loc>https://kb.cmpny.com/category/print-services-burnaby/</loc>
