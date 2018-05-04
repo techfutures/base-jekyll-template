@@ -1,6 +1,6 @@
 ---
 date: 2018-03-05 16:00:00 -0800
-title: Create a new password
+title: Create a New Password
 categories:
   - getting-started
 description:
@@ -9,7 +9,7 @@ type: Document
 
 <u><em><strong></strong></em></u>
 
-Head over to the Accounts Management Portal and create a new password for your account. Use the Forgotten Password button and enter your username (see format below). Alternatively, you may login using your temporary password if you have one. You will be sent a link to your registered email with further instructions to reset your password, this link expires within 1 hour. For security reasons your email cannot be changed by submitting a support ticket, if you require to change your email please see the front desk.&nbsp;
+Head over to the [Accounts Management Portal](http://accounts.cmpny.com/pwm) and create a new password for your account. Use the Forgotten Password button and enter your username (see format below). Alternatively, you may login using your temporary password if you have one. You will be sent a link to your registered email with further instructions to reset your password, this link expires within 1 hour. For security reasons your email cannot be changed by submitting a support ticket, if you require to change your email please see the front desk.&nbsp;
 
 Your username is in the format of first name (dot) last name, for example Captain.Kirk.
 
