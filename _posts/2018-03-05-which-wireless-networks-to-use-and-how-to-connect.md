@@ -2,7 +2,7 @@
 date: 2018-03-05 16:00:00 -0800
 title: Which Wireless Networks to Use and How to Connect
 categories:
-  - Network (Spacekraft)
+  - Network
 description:
 type: Document
 ---
