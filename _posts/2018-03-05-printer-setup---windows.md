@@ -13,9 +13,11 @@ Please note that that the links below will only work if you are connected to "Sp
 
 Step 1: Create a new password
 
-Head over to the Accounts Management Portal and create a new password for your account.
+Head over to the [Accounts Management Portal](http://accounts.cmpny.com/pwm){: target="_blank"} and create a new password for your account.
 
-Your username is in the format of first name (dot) last name, for example Captain.Kirk. Your password is the same network password for the rest of Spacekraft's IT Services, for further information please visit the Create a new password guide.
+Your username is in the format of first name (dot) last name, for example Captain.Kirk. Your password is the same network password for the rest of Spacekraft's IT Services,
+
+For further information please visit the [Create a New Password](/getting-started/create-a-new-password/) guide.
 
 Step 2: Download drivers and client app
 
