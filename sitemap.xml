@@ -75,9 +75,6 @@
 <loc>https://kb.cmpny.com/</loc>
 </url>
 <url>
-<loc>https://kb.cmpny.com/new-members/</loc>
-</url>
-<url>
 <loc>https://kb.cmpny.com/videos/</loc>
 </url>
 <url>
@@ -88,5 +85,9 @@
 </url>
 <url>
 <loc>https://kb.cmpny.com/category/getting-started/</loc>
+</url>
+<url>
+<loc>https://kb.cmpny.com/new-members.html</loc>
+<lastmod>2018-05-03T18:02:36-07:00</lastmod>
 </url>
 </urlset>
