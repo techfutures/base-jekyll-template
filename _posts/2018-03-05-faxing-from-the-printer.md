@@ -3,7 +3,7 @@ date: 2018-03-05 16:00:00 -0800
 title: Faxing from the Printer
 categories:
   - Print Services (Burnaby)
-description: Unable to contact server when trying to print release
+description:
 type: Document
 ---
 
@@ -11,28 +11,18 @@ type: Document
 
 1. Login with your fob or username/password.<br>2. On the main menu select Fax.<br>&nbsp;
 
-Enter the fax number you want to send to by pressing the box below the Fax Number title. Or select from one of the speed dial entries, current entries are listed below.
+Enter the number you want to send the fax to by pressing the box below the Fax Number title, or select from one of the speed dial entries, current entries are listed below.
 
-<table id="table80867"><tbody>
-<tr>
-<td><b>Speed Dial Code</b></td>
-<td><b>Name</b></td>
-<td><b>Number</b></td>
-</tr>
-<tr>
-<td>000</td>
-<td>CRA Surrey Tax Centre</td>
-<td>604-585-5769</td>
-</tr>
-</tbody></table>
+| **Speed Dial Code** | **Name** | **Number** |
+| 000 | CRA Surrey Tax Centre | 604-585-5769 |
 
-4. Optionally you can preview what your fax will look like be selecting the Preview button on the top right of the screen.
+Optionally you can preview what your fax will look like be selecting the Preview button on the top right of the screen.
 
-5. Select the green Send Fax icon on the top of the screen when you are ready to send the fax.
+1. Select the green Send Fax icon on the top of the screen when you are ready to send the fax.
 
 ## Receiving Faxes
 
-* Spacekraft's fax number is **(778) 826-1087**
+Spacekraft's fax number is **(778) 826-1087**
 
 * Ensure the sender includes a **Cover Page** clearly stating **Your Name and/or Company Name**
 * All faxes will be held in a queue for privacy, to retrieve your fax please see the front desk.
