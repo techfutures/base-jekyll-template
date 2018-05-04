@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="https://kb.cmpny.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://kb.cmpny.com/" rel="alternate" type="text/html" /><updated>2018-05-03T17:07:14-07:00</updated><id>https://kb.cmpny.com/</id><title type="html">CMPNY KB</title><subtitle>IT Knowledge Base by Tech Futures.</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><entry><title type="html">Bring Your Own Printer (BYOP)</title><link href="https://kb.cmpny.com/getting-started/bring-your-own-printer-byop/" rel="alternate" type="text/html" title="Bring Your Own Printer (BYOP)" /><published>2018-05-03T16:00:00-07:00</published><updated>2018-05-03T16:00:00-07:00</updated><id>https://kb.cmpny.com/getting-started/bring-your-own-printer-byop</id><content type="html" xml:base="https://kb.cmpny.com/getting-started/bring-your-own-printer-byop/">&lt;p&gt;If you would like to connect your own printer to the network please follow the steps below:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="https://kb.cmpny.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://kb.cmpny.com/" rel="alternate" type="text/html" /><updated>2018-05-03T17:08:19-07:00</updated><id>https://kb.cmpny.com/</id><title type="html">CMPNY KB</title><subtitle>IT Knowledge Base by Tech Futures.</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><entry><title type="html">Bring Your Own Printer (BYOP)</title><link href="https://kb.cmpny.com/getting-started/bring-your-own-printer-byop/" rel="alternate" type="text/html" title="Bring Your Own Printer (BYOP)" /><published>2018-05-03T16:00:00-07:00</published><updated>2018-05-03T16:00:00-07:00</updated><id>https://kb.cmpny.com/getting-started/bring-your-own-printer-byop</id><content type="html" xml:base="https://kb.cmpny.com/getting-started/bring-your-own-printer-byop/">&lt;p&gt;If you would like to connect your own printer to the network please follow the steps below:&lt;/p&gt;
 
 &lt;h2 id=&quot;1-connect-your-printer-to-the-network&quot;&gt;1. Connect your printer to the network&lt;/h2&gt;
 
@@ -175,6 +175,46 @@ E0553D8CC3F3
 &lt;/ul&gt;
 
 &lt;p class=&quot;present-before-paste&quot;&gt; &lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html"></summary></entry><entry><title type="html">Faxing from the Printer</title><link href="https://kb.cmpny.com/print%20services%20(burnaby)/faxing-from-the-printer/" rel="alternate" type="text/html" title="Faxing from the Printer" /><published>2018-03-05T16:00:00-08:00</published><updated>2018-03-05T16:00:00-08:00</updated><id>https://kb.cmpny.com/print%20services%20(burnaby)/faxing-from-the-printer</id><content type="html" xml:base="https://kb.cmpny.com/print%20services%20(burnaby)/faxing-from-the-printer/">&lt;h2 id=&quot;sending-faxes&quot;&gt;&lt;u&gt;&lt;em&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/u&gt;Sending Faxes&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Login with your fob or username/password.&lt;br /&gt;2. On the main menu select Fax.&lt;br /&gt; &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Enter the fax number you want to send to by pressing the box below the Fax Number title. Or select from one of the speed dial entries, current entries are listed below.&lt;/p&gt;
+
+&lt;table id=&quot;table80867&quot;&gt;&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;b&gt;Speed Dial Code&lt;/b&gt;&lt;/td&gt;
+&lt;td&gt;&lt;b&gt;Name&lt;/b&gt;&lt;/td&gt;
+&lt;td&gt;&lt;b&gt;Number&lt;/b&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;000&lt;/td&gt;
+&lt;td&gt;CRA Surrey Tax Centre&lt;/td&gt;
+&lt;td&gt;604-585-5769&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Optionally you can preview what your fax will look like be selecting the Preview button on the top right of the screen.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Select the green Send Fax icon on the top of the screen when you are ready to send the fax.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;receiving-faxes&quot;&gt;Receiving Faxes&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Spacekraft’s fax number is &lt;strong&gt;(778) 826-1087&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Ensure the sender includes a &lt;strong&gt;Cover Page&lt;/strong&gt; clearly stating &lt;strong&gt;Your Name and/or Company Name&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;All faxes will be held in a queue for privacy, to retrieve your fax please see the front desk.&lt;/li&gt;
+  &lt;li&gt;You have the option of receiving your faxes via email (PDF format) or get them printed. See the Price Guide for pricing details.&lt;/li&gt;
+  &lt;li&gt;If you intend to receive many faxes please ask us about our email-to-fax and fax-to-email plans at a reduced fixed monthly rate.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">Sending Faxes</summary></entry><entry><title type="html">Faxing from the Printer</title><link href="https://kb.cmpny.com/print%20services%20(burnaby)/faxing-from-the-printer-copy/" rel="alternate" type="text/html" title="Faxing from the Printer" /><published>2018-03-05T16:00:00-08:00</published><updated>2018-03-05T16:00:00-08:00</updated><id>https://kb.cmpny.com/print%20services%20(burnaby)/faxing-from-the-printer-copy</id><content type="html" xml:base="https://kb.cmpny.com/print%20services%20(burnaby)/faxing-from-the-printer-copy/">&lt;h2 id=&quot;sending-faxes&quot;&gt;&lt;u&gt;&lt;em&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/u&gt;Sending Faxes&lt;/h2&gt;
 
 &lt;ol&gt;
   &lt;li&gt;Login with your fob or username/password.&lt;br /&gt;2. On the main menu select Fax.&lt;br /&gt; &lt;/li&gt;
@@ -407,102 +447,6 @@ title: Blogging Like a Hacker
 &lt;/ul&gt;
 
 &lt;p&gt;Both methods work fine (and can be used in conjunction with each other), with the only real difference being the resulting URLs. By default, pages retain the same folder structure in &lt;code class=&quot;highlighter-rouge&quot;&gt;_site&lt;/code&gt; as they do in the source directory.&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">Jekyll is a simple, blog-aware, static site generator. It takes a template directory containing raw text files in various formats, runs it through a converter (like Markdown) and our Liquid renderer, and spits out a complete, ready-to-publish static website suitable for serving with your favorite web server.</summary></entry><entry><title type="html">S3</title><link href="https://kb.cmpny.com/deployment/s3/" rel="alternate" type="text/html" title="S3" /><published>2017-01-16T00:00:00-08:00</published><updated>2017-01-16T00:00:00-08:00</updated><id>https://kb.cmpny.com/deployment/s3</id><content type="html" xml:base="https://kb.cmpny.com/deployment/s3/">&lt;p&gt;Jekyll is a simple, blog-aware, static site generator. It takes a template directory containing raw text files in various formats, runs it through a converter (like Markdown) and our Liquid renderer, and spits out a complete, ready-to-publish static website suitable for serving with your favorite web server.&lt;/p&gt;
-
-&lt;p&gt;If you already have a full Ruby development environment with all headers and RubyGems installed, you can create a new Jekyll site by doing the following:&lt;/p&gt;
-
-&lt;h2 id=&quot;how-to-install&quot;&gt;How to install&lt;/h2&gt;
-
-&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c&quot;&gt;# Install Jekyll and Bundler gems through RubyGems&lt;/span&gt;
-~ &lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;gem &lt;span class=&quot;nb&quot;&gt;install &lt;/span&gt;jekyll bundler
-
-&lt;span class=&quot;c&quot;&gt;# Create a new Jekyll site at ./myblog&lt;/span&gt;
-~ &lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;jekyll new myblog
-
-&lt;span class=&quot;c&quot;&gt;# Change into your new directory&lt;/span&gt;
-~ &lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;cd &lt;/span&gt;myblog
-
-&lt;span class=&quot;c&quot;&gt;# Build the site on the preview server&lt;/span&gt;
-~/myblog &lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;bundle &lt;span class=&quot;nb&quot;&gt;exec &lt;/span&gt;jekyll serve
-
-&lt;span class=&quot;c&quot;&gt;# Now browse to http://localhost:4000&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;next-steps&quot;&gt;Next steps&lt;/h2&gt;
-
-&lt;p&gt;Building a Jekyll site with the default theme is just the first step. The real magic happens when you start creating blog posts, using the front matter to control templates and layouts, and taking advantage of all the awesome configuration options Jekyll makes available.&lt;/p&gt;
-
-&lt;h2 id=&quot;basic-usage&quot;&gt;Basic usage&lt;/h2&gt;
-
-&lt;p&gt;The Jekyll gem makes a &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll&lt;/code&gt; executable available to you in your Terminal window. You can use this command in a number of ways:&lt;/p&gt;
-
-&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;jekyll build
-&lt;span class=&quot;c&quot;&gt;# =&amp;gt; The current folder will be generated into ./_site&lt;/span&gt;
-
-&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;jekyll build &lt;span class=&quot;nt&quot;&gt;--destination&lt;/span&gt; &amp;lt;destination&amp;gt;
-&lt;span class=&quot;c&quot;&gt;# =&amp;gt; The current folder will be generated into &amp;lt;destination&amp;gt;&lt;/span&gt;
-
-&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;jekyll build &lt;span class=&quot;nt&quot;&gt;--source&lt;/span&gt; &amp;lt;&lt;span class=&quot;nb&quot;&gt;source&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;--destination&lt;/span&gt; &amp;lt;destination&amp;gt;
-&lt;span class=&quot;c&quot;&gt;# =&amp;gt; The &amp;lt;source&amp;gt; folder will be generated into &amp;lt;destination&amp;gt;&lt;/span&gt;
-
-&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;jekyll build &lt;span class=&quot;nt&quot;&gt;--watch&lt;/span&gt;
-&lt;span class=&quot;c&quot;&gt;# =&amp;gt; The current folder will be generated into ./_site,&lt;/span&gt;
-&lt;span class=&quot;c&quot;&gt;#    watched for changes, and regenerated automatically.&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;directory-structure&quot;&gt;Directory structure&lt;/h2&gt;
-
-&lt;p&gt;Jekyll is, at its core, a text transformation engine. The concept behind the system is this: you give it text written in your favorite markup language, be that Markdown, Textile, or just plain HTML, and it churns that through a layout or a series of layout files. Throughout that process you can tweak how you want the site URLs to look, what data gets displayed in the layout, and more. This is all done through editing text files; the static web site is the final product.&lt;/p&gt;
-
-&lt;p&gt;A basic Jekyll site usually looks something like this:&lt;/p&gt;
-
-&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nb&quot;&gt;.&lt;/span&gt;
-├── _config.yml
-├── _data
-|   └── members.yml
-├── _drafts
-|   ├── begin-with-the-crazy-ideas.md
-|   └── on-simplicity-in-technology.md
-├── _includes
-|   ├── footer.html
-|   └── header.html
-├── _layouts
-|   ├── default.html
-|   └── post.html
-├── _posts
-|   ├── 2007-10-29-why-every-programmer-should-play-nethack.md
-|   └── 2009-04-26-barcamp-boston-4-roundup.md
-├── _sass
-|   ├── _base.scss
-|   └── _layout.scss
-├── _site
-├── .jekyll-metadata
-└── index.html &lt;span class=&quot;c&quot;&gt;# can also be an 'index.md' with valid YAML Frontmatter&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;front-matter&quot;&gt;Front matter&lt;/h2&gt;
-
-&lt;p&gt;The front matter is where Jekyll starts to get really cool. Any file that contains a YAML front matter block will be processed by Jekyll as a special file. The front matter must be the first thing in the file and must take the form of valid YAML set between triple-dashed lines. Here is a basic example:&lt;/p&gt;
-
-&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;---
-layout: post
-title: Blogging Like a Hacker
----
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;Between these triple-dashed lines, you can set predefined variables (see below for a reference) or even create custom ones of your own. These variables will then be available to you to access using Liquid tags both further down in the file and also in any layouts or includes that the page or post in question relies on.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://images.unsplash.com/photo-1481487196290-c152efe083f5?ixlib=rb-0.3.5&amp;amp;q=80&amp;amp;fm=jpg&amp;amp;crop=entropy&amp;amp;cs=tinysrgb&amp;amp;w=1920&amp;amp;h=1080&amp;amp;fit=crop&amp;amp;s=80308172730757a7db0434987fa985f3&quot; alt=&quot;Example image&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;where-additional-pages-live&quot;&gt;Where additional pages live&lt;/h2&gt;
-
-&lt;p&gt;Where you put HTML or Markdown files for pages depends on how you want the pages to work. There are two main ways of creating pages:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Place named HTML or Markdown files for each page in your site’s root folder.&lt;/li&gt;
-  &lt;li&gt;Place pages inside folders and subfolders named whatever you want.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Both methods work fine (and can be used in conjunction with each other), with the only real difference being the resulting URLs. By default, pages retain the same folder structure in &lt;code class=&quot;highlighter-rouge&quot;&gt;_site&lt;/code&gt; as they do in the source directory.&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">Jekyll is a simple, blog-aware, static site generator. It takes a template directory containing raw text files in various formats, runs it through a converter (like Markdown) and our Liquid renderer, and spits out a complete, ready-to-publish static website suitable for serving with your favorite web server.</summary></entry><entry><title type="html">Overview</title><link href="https://kb.cmpny.com/account-settings/overview/" rel="alternate" type="text/html" title="Overview" /><published>2017-01-16T00:00:00-08:00</published><updated>2017-01-16T00:00:00-08:00</updated><id>https://kb.cmpny.com/account-settings/overview</id><content type="html" xml:base="https://kb.cmpny.com/account-settings/overview/">&lt;p&gt;Jekyll is a simple, blog-aware, static site generator. It takes a template directory containing raw text files in various formats, runs it through a converter (like Markdown) and our Liquid renderer, and spits out a complete, ready-to-publish static website suitable for serving with your favorite web server.&lt;/p&gt;
 
 &lt;p&gt;If you already have a full Ruby development environment with all headers and RubyGems installed, you can create a new Jekyll site by doing the following:&lt;/p&gt;
 
