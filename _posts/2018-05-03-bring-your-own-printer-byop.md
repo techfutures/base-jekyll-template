@@ -45,4 +45,4 @@ E0553D8CC3F3
 
 ## 3. Next steps
 
-Building a Jekyll site with the default theme is just the first step. The real magic happens when you start creating blog posts, using the front matter to control templates and layouts, and taking advantage of all the awesome configuration options Jekyll makes available.
+&nbsp;
