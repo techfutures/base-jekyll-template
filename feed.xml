@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="https://kb.cmpny.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://kb.cmpny.com/" rel="alternate" type="text/html" /><updated>2018-05-03T18:39:25-07:00</updated><id>https://kb.cmpny.com/</id><title type="html">CMPNY KB</title><subtitle>IT Knowledge Base by Tech Futures.</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><entry><title type="html">Bring Your Own Printer (BYOP)</title><link href="https://kb.cmpny.com/getting-started/bring-your-own-printer-byop/" rel="alternate" type="text/html" title="Bring Your Own Printer (BYOP)" /><published>2018-05-03T16:00:00-07:00</published><updated>2018-05-03T16:00:00-07:00</updated><id>https://kb.cmpny.com/getting-started/bring-your-own-printer-byop</id><content type="html" xml:base="https://kb.cmpny.com/getting-started/bring-your-own-printer-byop/">&lt;p&gt;If you would like to connect your own printer to the network please follow the steps below:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="https://kb.cmpny.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://kb.cmpny.com/" rel="alternate" type="text/html" /><updated>2018-05-03T18:42:24-07:00</updated><id>https://kb.cmpny.com/</id><title type="html">CMPNY KB</title><subtitle>IT Knowledge Base by Tech Futures.</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><entry><title type="html">Bring Your Own Printer (BYOP)</title><link href="https://kb.cmpny.com/getting-started/bring-your-own-printer-byop/" rel="alternate" type="text/html" title="Bring Your Own Printer (BYOP)" /><published>2018-05-03T16:00:00-07:00</published><updated>2018-05-03T16:00:00-07:00</updated><id>https://kb.cmpny.com/getting-started/bring-your-own-printer-byop</id><content type="html" xml:base="https://kb.cmpny.com/getting-started/bring-your-own-printer-byop/">&lt;p&gt;If you would like to connect your own printer to the network please follow the steps below:&lt;/p&gt;
 
-&lt;h2 id=&quot;1-connect-your-printer-to-the-network&quot;&gt;1. Connect your printer to the network&lt;/h2&gt;
+&lt;h2 id=&quot;connect-your-printer-to-the-network&quot;&gt;Connect your printer to the network&lt;/h2&gt;
 
 &lt;p&gt;Connect your printer to a wired network jack or wireless via WiFi.&lt;/p&gt;
 
-&lt;p&gt;Network Jack - simply plug it in via a physical ethernet cable to a free network jack in your office&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Network Jack&lt;/strong&gt; - simply plug it in via a physical Ethernet cable to a free network jack in your office.&lt;/p&gt;
 
-&lt;p&gt;WiFi - Connect your printer to the &lt;em&gt;Spacekraft Shared&lt;/em&gt; wireless network. Ask the Space Manager for the network password.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;WiFi&lt;/strong&gt; - Connect your printer to the &lt;em&gt;Spacekraft Shared&lt;/em&gt; wireless network. Ask the Space Manager for the network password.&lt;/p&gt;
 
-&lt;h2 id=&quot;2-email-our-it-team-to-complete-setup&quot;&gt;2. Email our IT team to complete setup&lt;/h2&gt;
+&lt;h2 id=&quot;email-our-it-team-to-complete-setup&quot;&gt;Email our IT team to complete setup&lt;/h2&gt;
 
 &lt;p&gt;Once you have successfully connected your printer to the network, please email &lt;a href=&quot;mailto:support@cmpny.com?subject=BYOP%20Request&amp;amp;body=Name%3A%0ACMPNY%20Location%3A%0AOffice%20%23%3A%0APrinter%20MAC%20address%3A&quot;&gt;support@cmpny.com&lt;/a&gt; with the below information:&lt;/p&gt;
 
@@ -31,13 +31,13 @@ E0-55-3D-8C-C3-F3
 E0553D8CC3F3
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;ol&gt;
+&lt;ul&gt;
   &lt;li&gt;Look at the product manual cover. Some manufacturers attach a MAC address label to the printer manual. This is usually noted with the legend: “Physical Address” or “MAC Address.” If this label is absent, proceed to the next step.&lt;/li&gt;
   &lt;li&gt;Consult the manual for instructions on printing the device’s configuration page.&lt;/li&gt;
   &lt;li&gt; Find a sticker on the printer that says “Physical Address” or “MAC Address”.&lt;/li&gt;
-&lt;/ol&gt;
+&lt;/ul&gt;
 
-&lt;h2 id=&quot;3-next-steps&quot;&gt;3. Next steps&lt;/h2&gt;
+&lt;h2&gt; &lt;/h2&gt;
 
 &lt;p&gt; &lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">If you would like to connect your own printer to the network please follow the steps below:</summary></entry><entry><title type="html">Which Wireless Networks to Use and How to Connect</title><link href="https://kb.cmpny.com/network/which-wireless-networks-to-use-and-how-to-connect/" rel="alternate" type="text/html" title="Which Wireless Networks to Use and How to Connect" /><published>2018-03-05T16:00:00-08:00</published><updated>2018-03-05T16:00:00-08:00</updated><id>https://kb.cmpny.com/network/which-wireless-networks-to-use-and-how-to-connect</id><content type="html" xml:base="https://kb.cmpny.com/network/which-wireless-networks-to-use-and-how-to-connect/">&lt;p&gt;&lt;u&gt;&lt;em&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/u&gt;&lt;/p&gt;
 
