@@ -11,6 +11,6 @@ type: Document
 
 <u><em><strong></strong></em></u>
 
-Known issues:<br>t this time you cannot print  to the Spackeraft printer while connected to Spackraft Private network. Please disconnect and connect to the regular Spacekraft network.
+Known issues:<br>At this time you cannot print &nbsp;to the Spacekraft printer while connected to Spacekraft Private network. Please disconnect and connect to the regular Spacekraft network.
 
 This applies to Burnaby only.
