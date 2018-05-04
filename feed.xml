@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="https://kb.cmpny.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://kb.cmpny.com/" rel="alternate" type="text/html" /><updated>2018-05-03T17:03:14-07:00</updated><id>https://kb.cmpny.com/</id><title type="html">CMPNY KB</title><subtitle>IT Knowledge Base by Tech Futures.</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><entry><title type="html">Bring Your Own Printer (BYOP)</title><link href="https://kb.cmpny.com/getting-started/bring-your-own-printer-byop/" rel="alternate" type="text/html" title="Bring Your Own Printer (BYOP)" /><published>2018-05-03T16:00:00-07:00</published><updated>2018-05-03T16:00:00-07:00</updated><id>https://kb.cmpny.com/getting-started/bring-your-own-printer-byop</id><content type="html" xml:base="https://kb.cmpny.com/getting-started/bring-your-own-printer-byop/">&lt;p&gt;If you would like to connect your own printer to the network please follow the steps below:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="https://kb.cmpny.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://kb.cmpny.com/" rel="alternate" type="text/html" /><updated>2018-05-03T17:06:40-07:00</updated><id>https://kb.cmpny.com/</id><title type="html">CMPNY KB</title><subtitle>IT Knowledge Base by Tech Futures.</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><entry><title type="html">Bring Your Own Printer (BYOP)</title><link href="https://kb.cmpny.com/getting-started/bring-your-own-printer-byop/" rel="alternate" type="text/html" title="Bring Your Own Printer (BYOP)" /><published>2018-05-03T16:00:00-07:00</published><updated>2018-05-03T16:00:00-07:00</updated><id>https://kb.cmpny.com/getting-started/bring-your-own-printer-byop</id><content type="html" xml:base="https://kb.cmpny.com/getting-started/bring-your-own-printer-byop/">&lt;p&gt;If you would like to connect your own printer to the network please follow the steps below:&lt;/p&gt;
 
 &lt;h2 id=&quot;1-connect-your-printer-to-the-network&quot;&gt;1. Connect your printer to the network&lt;/h2&gt;
 
@@ -40,10 +40,6 @@ E0553D8CC3F3
 &lt;h2 id=&quot;3-next-steps&quot;&gt;3. Next steps&lt;/h2&gt;
 
 &lt;p&gt;Building a Jekyll site with the default theme is just the first step. The real magic happens when you start creating blog posts, using the front matter to control templates and layouts, and taking advantage of all the awesome configuration options Jekyll makes available.&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">If you would like to connect your own printer to the network please follow the steps below:</summary></entry><entry><title type="html">Unable to Contact Server - Error</title><link href="https://kb.cmpny.com/print%20services%20(burnaby)/unable-to-contact-server-error/" rel="alternate" type="text/html" title="Unable to Contact Server - Error" /><published>2018-03-05T16:00:00-08:00</published><updated>2018-03-05T16:00:00-08:00</updated><id>https://kb.cmpny.com/print%20services%20(burnaby)/unable-to-contact-server---error</id><content type="html" xml:base="https://kb.cmpny.com/print%20services%20(burnaby)/unable-to-contact-server-error/">&lt;p&gt;&lt;u&gt;&lt;em&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/u&gt;&lt;/p&gt;
-
-&lt;p&gt;When attempting to use a fob to login to the printer a popup screen with the message “Unable to Contact Server” may appear.&lt;/p&gt;
-
-&lt;p&gt;If it does, please wait 5-10 seconds and try again. This is caused when the printer is in sleep mode for an extended period of time.&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html"></summary></entry><entry><title type="html">Unable to Contact Server - Error</title><link href="https://kb.cmpny.com/print%20services%20(burnaby)/unable-to-contact-server-error-copy/" rel="alternate" type="text/html" title="Unable to Contact Server - Error" /><published>2018-03-05T16:00:00-08:00</published><updated>2018-03-05T16:00:00-08:00</updated><id>https://kb.cmpny.com/print%20services%20(burnaby)/unable-to-contact-server---error-copy</id><content type="html" xml:base="https://kb.cmpny.com/print%20services%20(burnaby)/unable-to-contact-server-error-copy/">&lt;p&gt;&lt;u&gt;&lt;em&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/u&gt;&lt;/p&gt;
 
 &lt;p&gt;When attempting to use a fob to login to the printer a popup screen with the message “Unable to Contact Server” may appear.&lt;/p&gt;
 
@@ -178,7 +174,38 @@ E0553D8CC3F3
   &lt;li&gt;Receiving: PDF, $0.05/page. Printed, $0.13/page (automatic duplex).&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p class=&quot;present-before-paste&quot;&gt; &lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html"></summary></entry><entry><title type="html">Urban</title><link href="https://kb.cmpny.com/themes/urban/" rel="alternate" type="text/html" title="Urban" /><published>2017-01-16T00:00:00-08:00</published><updated>2017-01-16T00:00:00-08:00</updated><id>https://kb.cmpny.com/themes/urban</id><content type="html" xml:base="https://kb.cmpny.com/themes/urban/">&lt;p&gt;Jekyll is a simple, blog-aware, static site generator. It takes a template directory containing raw text files in various formats, runs it through a converter (like Markdown) and our Liquid renderer, and spits out a complete, ready-to-publish static website suitable for serving with your favorite web server.&lt;/p&gt;
+&lt;p class=&quot;present-before-paste&quot;&gt; &lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html"></summary></entry><entry><title type="html">Faxing from the Printer</title><link href="https://kb.cmpny.com/print%20services%20(burnaby)/faxing-from-the-printer/" rel="alternate" type="text/html" title="Faxing from the Printer" /><published>2018-03-05T16:00:00-08:00</published><updated>2018-03-05T16:00:00-08:00</updated><id>https://kb.cmpny.com/print%20services%20(burnaby)/faxing-from-the-printer</id><content type="html" xml:base="https://kb.cmpny.com/print%20services%20(burnaby)/faxing-from-the-printer/">&lt;h2 id=&quot;sending-faxes&quot;&gt;&lt;u&gt;&lt;em&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/u&gt;Sending Faxes&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Login with your fob or username/password.&lt;br /&gt;2. On the main menu select Fax.&lt;br /&gt; &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Enter the fax number you want to send to by pressing the box below the Fax Number title. Or select from one of the speed dial entries, current entries are listed below.&lt;/p&gt;
+
+&lt;p&gt;Speed Dial CodeNameNumber&lt;/p&gt;
+
+&lt;p&gt;000CRA Surrey Tax Centre604-585-5769&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Optionally you can preview what your fax will look like be selecting the Preview button on the top right of the screen.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Select the green Send Fax icon on the top of the screen when you are ready to send the fax.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;receiving-faxes&quot;&gt;Receiving Faxes&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Spacekraft’s fax number is &lt;strong&gt;(778) 826-1087&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Ensure the sender includes a &lt;strong&gt;Cover Page&lt;/strong&gt; clearly stating &lt;strong&gt;Your Name and/or Company Name&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;All faxes will be held in a queue for privacy, to retrieve your fax please see the front desk.&lt;/li&gt;
+  &lt;li&gt;You have the option of receiving your faxes via email (PDF format) or get them printed. See the Price Guide for pricing details.&lt;/li&gt;
+  &lt;li&gt;If you intend to receive many faxes please ask us about our email-to-fax and fax-to-email plans at a reduced fixed monthly rate.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">Sending Faxes</summary></entry><entry><title type="html">Urban</title><link href="https://kb.cmpny.com/themes/urban/" rel="alternate" type="text/html" title="Urban" /><published>2017-01-16T00:00:00-08:00</published><updated>2017-01-16T00:00:00-08:00</updated><id>https://kb.cmpny.com/themes/urban</id><content type="html" xml:base="https://kb.cmpny.com/themes/urban/">&lt;p&gt;Jekyll is a simple, blog-aware, static site generator. It takes a template directory containing raw text files in various formats, runs it through a converter (like Markdown) and our Liquid renderer, and spits out a complete, ready-to-publish static website suitable for serving with your favorite web server.&lt;/p&gt;
 
 &lt;p&gt;If you already have a full Ruby development environment with all headers and RubyGems installed, you can create a new Jekyll site by doing the following:&lt;/p&gt;
 
