@@ -137,6 +137,10 @@
 <lastmod>2018-03-05T16:00:00-08:00</lastmod>
 </url>
 <url>
+<loc>https://kb.cmpny.com/network%20(spacekraft)/connecting-to-spacekraft-private-windows-7/</loc>
+<lastmod>2018-03-05T16:00:00-08:00</lastmod>
+</url>
+<url>
 <loc>https://kb.cmpny.com/print%20services%20(burnaby)/faxing-from-the-printer/</loc>
 <lastmod>2018-03-05T16:00:00-08:00</lastmod>
 </url>
@@ -154,10 +158,6 @@
 </url>
 <url>
 <loc>https://kb.cmpny.com/print%20services%20(burnaby)/printer-setup-windows/</loc>
-<lastmod>2018-03-05T16:00:00-08:00</lastmod>
-</url>
-<url>
-<loc>https://kb.cmpny.com/print%20services%20(burnaby)/scan-to-email-copy/</loc>
 <lastmod>2018-03-05T16:00:00-08:00</lastmod>
 </url>
 <url>
@@ -204,5 +204,8 @@
 </url>
 <url>
 <loc>https://kb.cmpny.com/category/print-services-burnaby/</loc>
+</url>
+<url>
+<loc>https://kb.cmpny.com/category/network-spacekraft/</loc>
 </url>
 </urlset>
