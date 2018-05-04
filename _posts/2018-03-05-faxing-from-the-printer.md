@@ -13,9 +13,18 @@ type: Document
 
 Enter the fax number you want to send to by pressing the box below the Fax Number title. Or select from one of the speed dial entries, current entries are listed below.
 
-Speed Dial CodeNameNumber
-
-000CRA Surrey Tax Centre604-585-5769
+<table id="table80867"><tbody>
+<tr>
+<td><b>Speed Dial Code</b></td>
+<td><b>Name</b></td>
+<td><b>Number</b></td>
+</tr>
+<tr>
+<td>000</td>
+<td>CRA Surrey Tax Centre</td>
+<td>604-585-5769</td>
+</tr>
+</tbody></table>
 
 4. Optionally you can preview what your fax will look like be selecting the Preview button on the top right of the screen.
 
