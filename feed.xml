@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="https://kb.cmpny.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://kb.cmpny.com/" rel="alternate" type="text/html" /><updated>2018-05-03T19:08:40-07:00</updated><id>https://kb.cmpny.com/</id><title type="html">CMPNY KB</title><subtitle>IT Knowledge Base by Tech Futures.</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><entry><title type="html">Bring Your Own Printer (BYOP)</title><link href="https://kb.cmpny.com/getting-started/bring-your-own-printer-byop/" rel="alternate" type="text/html" title="Bring Your Own Printer (BYOP)" /><published>2018-05-03T16:00:00-07:00</published><updated>2018-05-03T16:00:00-07:00</updated><id>https://kb.cmpny.com/getting-started/bring-your-own-printer-byop</id><content type="html" xml:base="https://kb.cmpny.com/getting-started/bring-your-own-printer-byop/">&lt;p&gt;If you would like to connect your own printer to the network please follow the steps below:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="https://kb.cmpny.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://kb.cmpny.com/" rel="alternate" type="text/html" /><updated>2018-05-03T19:08:57-07:00</updated><id>https://kb.cmpny.com/</id><title type="html">CMPNY KB</title><subtitle>IT Knowledge Base by Tech Futures.</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><entry><title type="html">Bring Your Own Printer (BYOP)</title><link href="https://kb.cmpny.com/getting-started/bring-your-own-printer-byop/" rel="alternate" type="text/html" title="Bring Your Own Printer (BYOP)" /><published>2018-05-03T16:00:00-07:00</published><updated>2018-05-03T16:00:00-07:00</updated><id>https://kb.cmpny.com/getting-started/bring-your-own-printer-byop</id><content type="html" xml:base="https://kb.cmpny.com/getting-started/bring-your-own-printer-byop/">&lt;p&gt;If you would like to connect your own printer to the network please follow the steps below:&lt;/p&gt;
 
 &lt;h2 id=&quot;connect-your-printer-to-the-network&quot;&gt;Connect your printer to the network&lt;/h2&gt;
 
@@ -170,7 +170,7 @@ E0553D8CC3F3
 
 &lt;p&gt;Please note that that the links below will only work if you are connected to “Spacekraft” wifi network.&lt;/p&gt;
 
-&lt;p&gt;Step 1: Create a new password&lt;/p&gt;
+&lt;h2 id=&quot;step-1-create-a-new-password&quot;&gt;Step 1: Create a new password&lt;/h2&gt;
 
 &lt;p&gt;Head over to the &lt;a href=&quot;http://accounts.cmpny.com/pwm&quot; target=&quot;_blank&quot;&gt;Accounts Management Portal&lt;/a&gt; and create a new password for your account.&lt;/p&gt;
 
@@ -178,47 +178,69 @@ E0553D8CC3F3
 
 &lt;p&gt;For further information please visit the &lt;a href=&quot;/getting-started/create-a-new-password/&quot;&gt;Create a New Password&lt;/a&gt; guide.&lt;/p&gt;
 
-&lt;p&gt;Step 2: Download drivers and client app&lt;/p&gt;
+&lt;h2 id=&quot;step-2-download-drivers-and-client-app&quot;&gt;Step 2: Download drivers and client app&lt;/h2&gt;
 
 &lt;p&gt;Download the client application.&lt;/p&gt;
 
 &lt;p&gt;Once you have downloaded the client app zip folder, extract it first then launch the file labeled client-local-install.&lt;/p&gt;
 
+&lt;p&gt;&lt;img src=&quot;/uploads/1-client-install.JPG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/client-install-complete.JPG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
 &lt;p&gt;You may be prompted to login using the same username and password as in step 1.&lt;/p&gt;
 
-&lt;p&gt;Once you have successfully logged in, you should see the account balance window.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/uploads/papercut-login.JPG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt; &lt;/p&gt;
+&lt;p&gt;Once you have successfully logged in, you should see the account balance window.&lt;br /&gt;(Balance will vary)&lt;/p&gt;
 
-&lt;p&gt;Step 3: Open Printers and Scanners&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/uploads/papercut-balance.JPG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Open Contorl Panel, then open Devices &amp;amp; Printers.&lt;/p&gt;
+&lt;h2 id=&quot;step-3-open-printers-and-scanners&quot;&gt;Step 3: Open Printers and Scanners&lt;/h2&gt;
+
+&lt;p&gt;Open Control Panel, then open Devices &amp;amp; Printers.&lt;/p&gt;
 
 &lt;p&gt;Once open, click Add Printer on the top toolbar. The following window will appear, choose The Printer that I want isn’t listed.&lt;/p&gt;
 
-&lt;p&gt;Step 4: Add Printer&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/uploads/add-printer-regular.JPG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;step-4-add-printer&quot;&gt;Step 4: Add Printer&lt;/h2&gt;
 
 &lt;p&gt;Select the shared printer by name option, and copy the image by entering \\10.210.10.3\HP MFP&lt;/p&gt;
 
+&lt;p&gt;&lt;img src=&quot;/uploads/add-printer-2.JPG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
 &lt;p&gt;Installation may take 1-5 minutes, and the following screen will appear.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/connecting-window.JPG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;A popup window may appear asking for a name and password. Enter “SPACEKRAFT\” followed by the same username and password as in step 1.&lt;/p&gt;
 
+&lt;p&gt;&lt;img src=&quot;/uploads/windows-printer-auth.JPG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
 &lt;p&gt;Once the printer has been successfully added you will see the following screen.&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/uploads/add-printer-success.JPG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Step 4.1: Configure Printer&lt;/p&gt;
+&lt;h2 id=&quot;step-41-configure-printer&quot;&gt;Step 4.1: Configure Printer&lt;/h2&gt;
 
 &lt;p&gt;Right click the printer and select Printer properties.&lt;/p&gt;
 
+&lt;p&gt;&lt;img src=&quot;/uploads/right-click-properties.JPG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
 &lt;p&gt;Select the Device Settings tab and set Tray 3 as HP 1500-Sheet Input Tray and Tray 4 as HP 2000-Sheet Input Tray.&lt;/p&gt;
 
-&lt;p&gt;Setup Complete&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/uploads/tray-properties.JPG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;First time printing&lt;/p&gt;
+&lt;h3 id=&quot;setup-complete&quot;&gt;Setup Complete&lt;/h3&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;h2 id=&quot;first-time-printing&quot;&gt;First time printing&lt;/h2&gt;
 
 &lt;p&gt;The first time you print a document a popup window will appear requiring your username and password. Enter your same username and password as in step 1. You may choose for your computer to remember your username/password until you logout so it will not prompt you every time you print.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/login-required-for-pritner-access.JPG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Success!&lt;/p&gt;
 
