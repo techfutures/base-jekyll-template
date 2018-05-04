@@ -11,7 +11,7 @@ type: Document
 
 Head over to the [Accounts Management Portal](http://accounts.cmpny.com/pwm) and create a new password for your account. Use the Forgotten Password button and enter your username (see format below).<br>Alternatively, you may login using your temporary password if you have one. You will be sent a link to your registered email with further instructions to reset your password, this link expires within 1 hour.<br>For security reasons your email cannot be changed by submitting a support ticket, if you require to change your email please see the front desk.&nbsp;
 
-Your username is in the format of first name (dot) last name, for example Captain.Kirk.
+Your username is in the format of first name (dot) last name, for example Captain.Kirk
 
 This same username and password is used for all Spacekraft IT services, including this support portal, print services and the wireless network.
 
