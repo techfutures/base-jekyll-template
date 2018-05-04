@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="https://kb.cmpny.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://kb.cmpny.com/" rel="alternate" type="text/html" /><updated>2018-05-03T19:08:57-07:00</updated><id>https://kb.cmpny.com/</id><title type="html">CMPNY KB</title><subtitle>IT Knowledge Base by Tech Futures.</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><entry><title type="html">Bring Your Own Printer (BYOP)</title><link href="https://kb.cmpny.com/getting-started/bring-your-own-printer-byop/" rel="alternate" type="text/html" title="Bring Your Own Printer (BYOP)" /><published>2018-05-03T16:00:00-07:00</published><updated>2018-05-03T16:00:00-07:00</updated><id>https://kb.cmpny.com/getting-started/bring-your-own-printer-byop</id><content type="html" xml:base="https://kb.cmpny.com/getting-started/bring-your-own-printer-byop/">&lt;p&gt;If you would like to connect your own printer to the network please follow the steps below:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="https://kb.cmpny.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://kb.cmpny.com/" rel="alternate" type="text/html" /><updated>2018-05-03T19:12:21-07:00</updated><id>https://kb.cmpny.com/</id><title type="html">CMPNY KB</title><subtitle>IT Knowledge Base by Tech Futures.</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><entry><title type="html">Bring Your Own Printer (BYOP)</title><link href="https://kb.cmpny.com/getting-started/bring-your-own-printer-byop/" rel="alternate" type="text/html" title="Bring Your Own Printer (BYOP)" /><published>2018-05-03T16:00:00-07:00</published><updated>2018-05-03T16:00:00-07:00</updated><id>https://kb.cmpny.com/getting-started/bring-your-own-printer-byop</id><content type="html" xml:base="https://kb.cmpny.com/getting-started/bring-your-own-printer-byop/">&lt;p&gt;If you would like to connect your own printer to the network please follow the steps below:&lt;/p&gt;
 
 &lt;h2 id=&quot;connect-your-printer-to-the-network&quot;&gt;Connect your printer to the network&lt;/h2&gt;
 
@@ -45,35 +45,35 @@ E0553D8CC3F3
 
 &lt;h3 id=&quot;spacekraft&quot;&gt;Spacekraft&lt;/h3&gt;
 
-&lt;p&gt;Description: This is the primary network available for all Spacekraft members. &lt;/p&gt;
+&lt;p&gt;&lt;u&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;/u&gt;&lt;br /&gt;This is the primary network available for all Spacekraft members. &lt;/p&gt;
 
-&lt;p&gt;Function: It isolates all devices connected to it, meaning one devices cannot see or talk to another device on the network. To access the internet and Spackeraft Printer.&lt;/p&gt;
+&lt;p&gt;&lt;u&gt;&lt;strong&gt;Function:&lt;/strong&gt;&lt;/u&gt;&lt;br /&gt;It isolates all devices connected to it, meaning one devices cannot see or talk to another device on the network. To access the internet and Spackeraft Printer.&lt;/p&gt;
 
-&lt;p&gt;Use: To connect, look for Spacekraft network. For the password please see the front desk or login to this portal then see the Wireless Networks Passwords page. &lt;/p&gt;
+&lt;p&gt;&lt;u&gt;&lt;strong&gt;Use:&lt;/strong&gt;&lt;/u&gt;&lt;br /&gt;To connect, look for Spacekraft network. For the password please see the front desk or login to this portal then see the Wireless Networks Passwords page. &lt;/p&gt;
 
 &lt;h3 id=&quot;spacekraft-shared&quot;&gt;Spacekraft Shared&lt;/h3&gt;
 
-&lt;p&gt;Description: For private office members to share devices within their own office only. Or for any member wishing to share or view devices with each other.&lt;/p&gt;
+&lt;p&gt;&lt;u&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;/u&gt;&lt;br /&gt;For private office members to share devices within their own office only. Or for any member wishing to share or view devices with each other.&lt;/p&gt;
 
-&lt;p&gt;Function: To share legacy devices such as personal printers or any devices that does not support WPA2-Enterprise authentication. For private office members, if it is a printer or example no one else will be able to view it except those in your office or organization.&lt;/p&gt;
+&lt;p&gt;&lt;u&gt;&lt;strong&gt;Function:&lt;/strong&gt;&lt;/u&gt;&lt;br /&gt;To share legacy devices such as personal printers or any devices that does not support WPA2-Enterprise authentication. For private office members, if it is a printer or example no one else will be able to view it except those in your office or organization.&lt;/p&gt;
 
-&lt;p&gt;Use: For private office members, connect your devices to Spacekraft Shared network. For the password please see the front desk or login to this portal then see the Wireless Networks Passwords page.  On the support portal, click request new service, select Networking Provisioning &amp;gt; Add legacy device, and fill out the required information. For other members wishing to share files for example simply connect both devices to the Spaekraft Shared network.&lt;/p&gt;
+&lt;p&gt;&lt;u&gt;&lt;strong&gt;Use:&lt;/strong&gt;&lt;/u&gt;&lt;br /&gt;For private office members, connect your devices to Spacekraft Shared network. For the password please see the front desk or login to this portal then see the Wireless Networks Passwords page.  On the support portal, click request new service, select Networking Provisioning &amp;gt; Add legacy device, and fill out the required information. For other members wishing to share files for example simply connect both devices to the Spaekraft Shared network.&lt;/p&gt;
 
 &lt;h3 id=&quot;spacekraft-private&quot;&gt;Spacekraft Private&lt;/h3&gt;
 
-&lt;p&gt;Description: For private office members , it creates a virtual network which bridges the wired network and wireless so they can share files and view devices within their organization.&lt;/p&gt;
+&lt;p&gt;&lt;u&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;/u&gt;&lt;br /&gt;For private office members , it creates a virtual network which bridges the wired network and wireless so they can share files and view devices within their organization.&lt;/p&gt;
 
-&lt;p&gt;Function: Allows you to view any device connected via wired or wireless and share files and talk to each other.&lt;/p&gt;
+&lt;p&gt;&lt;u&gt;&lt;strong&gt;Function:&lt;/strong&gt;&lt;/u&gt;&lt;br /&gt;Allows you to view any device connected via wired or wireless and share files and talk to each other.&lt;/p&gt;
 
-&lt;p&gt;Use: This network is hidden, to connect please see the Windows, Mac OS X or Android guide.&lt;/p&gt;
+&lt;p&gt;&lt;u&gt;&lt;strong&gt;Use:&lt;/strong&gt;&lt;/u&gt;&lt;br /&gt;This network is hidden, to connect please see the Windows, Mac OS X or Android guide.&lt;/p&gt;
 
 &lt;h3 id=&quot;cloudsingularity-open&quot;&gt;CloudSingularity Open&lt;/h3&gt;
 
-&lt;p&gt;Description: For guests and events to access the internet.&lt;/p&gt;
+&lt;p&gt;&lt;u&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;/u&gt;&lt;br /&gt;For guests and events to access the internet.&lt;/p&gt;
 
-&lt;p&gt;Function: It is a throttled network with bandwidth restrictions to allow guests to easily connect to the internet without any username or password.&lt;/p&gt;
+&lt;p&gt;&lt;u&gt;&lt;strong&gt;Function:&lt;/strong&gt;&lt;/u&gt;&lt;br /&gt;It is a throttled network with bandwidth restrictions to allow guests to easily connect to the internet without any username or password.&lt;/p&gt;
 
-&lt;p&gt;Use: There is no authentication required, however you will need to accept the terms of service. When you connect open a web browser and navigate to any webpage, and you will be promoted with a splash page.&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html"></summary></entry><entry><title type="html">Unable to Contact Server - Error</title><link href="https://kb.cmpny.com/print%20services%20(burnaby)/unable-to-contact-server-error/" rel="alternate" type="text/html" title="Unable to Contact Server - Error" /><published>2018-03-05T16:00:00-08:00</published><updated>2018-03-05T16:00:00-08:00</updated><id>https://kb.cmpny.com/print%20services%20(burnaby)/unable-to-contact-server---error</id><content type="html" xml:base="https://kb.cmpny.com/print%20services%20(burnaby)/unable-to-contact-server-error/">&lt;p&gt;&lt;u&gt;&lt;em&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/u&gt;&lt;/p&gt;
+&lt;p&gt;&lt;u&gt;&lt;strong&gt;Use:&lt;/strong&gt;&lt;/u&gt;&lt;br /&gt;There is no authentication required, however you will need to accept the terms of service. When you connect open a web browser and navigate to any webpage, and you will be promoted with a splash page.&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html"></summary></entry><entry><title type="html">Unable to Contact Server - Error</title><link href="https://kb.cmpny.com/print%20services%20(burnaby)/unable-to-contact-server-error/" rel="alternate" type="text/html" title="Unable to Contact Server - Error" /><published>2018-03-05T16:00:00-08:00</published><updated>2018-03-05T16:00:00-08:00</updated><id>https://kb.cmpny.com/print%20services%20(burnaby)/unable-to-contact-server---error</id><content type="html" xml:base="https://kb.cmpny.com/print%20services%20(burnaby)/unable-to-contact-server-error/">&lt;p&gt;&lt;u&gt;&lt;em&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/u&gt;&lt;/p&gt;
 
 &lt;p&gt;When attempting to use a fob to login to the printer a popup screen with the message “Unable to Contact Server” may appear.&lt;/p&gt;
 
