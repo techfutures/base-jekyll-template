@@ -1,1 +1,1 @@
-Sitemap: https://kb.cmpny.com/sitemap.xml
+Sitemap: http://kb.cmpny.com/sitemap.xml
