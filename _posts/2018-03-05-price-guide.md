@@ -21,7 +21,7 @@ If it does, please wait 5-10 seconds and try again. This is caused when the prin
 
 ### Scan to Email
 
-* Free{: .present-before-paste}
+* Free
 
 ### Faxing
 
