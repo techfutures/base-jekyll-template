@@ -2,7 +2,7 @@
 date: 2018-03-05 16:00:00 -0800
 title: Connecting to Spacekraft Private - Windows 7
 categories:
-  - Network (Spacekraft)
+  - Network
 description:
 type: Document
 ---
@@ -13,11 +13,11 @@ The Spacekraft Private network is hidden, therefore it does not show up in the l
 
 Step 0: Create a new password
 
-If you haven't already, head over to the&nbsp;[Accounts Management Portal](http://accounts.cmpny.com/pwm){: target="_blank"}&nbsp;and create a new password for your account.
+If you haven't already, head over to the [Accounts Management Portal](http://accounts.cmpny.com/pwm){: target="_blank"} and create a new password for your account.
 
 Your username is in the format of first name (dot) last name, for example Captain.Kirk.
 
-For further information please visit the&nbsp;[Create a New Password](http://support.spacekraft.co/support/solutions/articles/1000019662-create-a-new-password){: target="_blank"}&nbsp;guide.
+For further information please visit the [Create a New Password](http://support.spacekraft.co/support/solutions/articles/1000019662-create-a-new-password){: target="_blank"} guide.
 
 Step 1: Open Network and Sharing Center
 
@@ -37,11 +37,11 @@ Once you have successfully completed the steps, the follow screen will appear. S
 
 Step 5: Change security settings
 
-Select the Security &nbsp;tab and click the Settings &nbsp;button.
+Select the Security  tab and click the Settings  button.
 
 Step 6: Change certificate settings
 
-Uncheck Verify the server's identity by validating the certificate. Double check it looks the same as the below image. Then click the Configure &nbsp;button.
+Uncheck Verify the server's identity by validating the certificate. Double check it looks the same as the below image. Then click the Configure  button.
 
 Step 7: Configure authentication method
 
@@ -55,4 +55,4 @@ Step 8: Success!
 
 After you have completed all the steps above you should be connected to Spacekraft Private.
 
-Known issues: At this time you cannot print &nbsp;to the Spackeraft printer while connected to Spackraft Private network. Please disconnect and connect to the regular Spacekraft network.
+Known issues: At this time you cannot print  to the Spackeraft printer while connected to Spackraft Private network. Please disconnect and connect to the regular Spacekraft network.
