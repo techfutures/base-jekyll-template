@@ -11,7 +11,7 @@ type: Document
 
 There are 4 wireless networks available for use at Spackeraft. This guide will outline which network to use.
 
-### Spacekraft
+## Spacekraft
 
 <u><strong>Description:</strong></u><br>This is the primary network available for all Spacekraft members.&nbsp;
 
@@ -19,7 +19,7 @@ There are 4 wireless networks available for use at Spackeraft. This guide will o
 
 <u><strong>Use:</strong></u><br>To connect, look for Spacekraft network. For the password please see the front desk or login to this portal then see the Wireless Networks Passwords page.&nbsp;
 
-### Spacekraft Shared
+## Spacekraft Shared
 
 <u><strong>Description:</strong></u><br>For private office members to share devices within their own office only. Or for any member wishing to share or view devices with each other.
 
@@ -27,7 +27,7 @@ There are 4 wireless networks available for use at Spackeraft. This guide will o
 
 <u><strong>Use:</strong></u><br>For private office members, connect your devices to Spacekraft Shared network. For the password please see the front desk or login to this portal then see the Wireless Networks Passwords page. &nbsp;On the support portal, click request new service, select Networking Provisioning &gt; Add legacy device, and fill out the required information. For other members wishing to share files for example simply connect both devices to the Spaekraft Shared network.
 
-### Spacekraft Private
+## Spacekraft Private
 
 <u><strong>Description:</strong></u><br>For private office members , it creates a virtual network which bridges the wired network and wireless so they can share files and view devices within their organization.
 
@@ -35,7 +35,7 @@ There are 4 wireless networks available for use at Spackeraft. This guide will o
 
 <u><strong>Use:</strong></u><br>This network is hidden, to connect please see the Windows, Mac OS X or Android guide.
 
-### CloudSingularity Open
+## CloudSingularity Open
 
 <u><strong>Description:</strong></u><br>For guests and events to access the internet.
 
