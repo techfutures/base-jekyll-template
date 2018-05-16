@@ -13,7 +13,7 @@ type: Document
 
 Full Name:<br>Your Company:<br>Company Location: (Burnaby/Coquitlam)<br>Plan Type: (Office #, Personal Desk #, Hot Desk)
 
-# Password Reset
+## Password Reset
 
 Head over to the [Accounts Management Portal](http://accounts.cmpny.com/pwm) and create a new password for your account.
 
