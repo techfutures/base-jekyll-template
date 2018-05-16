@@ -11,9 +11,9 @@ type: Document
 
 Present your fob to the reader on the left with the red light, it will beep twice. The following screen will appear, click next to enter your account credentials.<br>![](/uploads/card1.PNG)
 
-Enter your account credentials. If you have not reset your password please do that first.<br>![](/uploads/card2-1.PNG)
+Enter your account credentials. If you have not [reset your password](/getting-started/create-a-new-password/) please do that first.<br>![](/uploads/card2-1.PNG)
 
-Once you have successfully associated your card
+Once you have successfully associated your card, the following screen will appear.
 
 ![](/uploads/card3.PNG)
 
