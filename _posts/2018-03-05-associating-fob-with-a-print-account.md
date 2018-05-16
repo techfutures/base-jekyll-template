@@ -17,4 +17,4 @@ Once you have successfully associated your card
 
 ![](/uploads/card3.PNG)
 
-All futures times&nbsp; you use the printer you will only need to use your fob and won't have to enter your username/password again.
+All subsequent times in order to use the printer you will only need to tap your fob, you won't have to enter your username/password again.
