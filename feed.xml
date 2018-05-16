@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="http://kb.cmpny.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://kb.cmpny.com/" rel="alternate" type="text/html" /><updated>2018-05-15T19:51:51-07:00</updated><id>http://kb.cmpny.com/</id><title type="html">CMPNY KB</title><subtitle>IT Knowledge Base by Tech Futures.</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><entry><title type="html">Which Wireless Networks to Use and How to Connect</title><link href="http://kb.cmpny.com/network/which-wireless-networks-to-use-and-how-to-connect/" rel="alternate" type="text/html" title="Which Wireless Networks to Use and How to Connect" /><published>2018-05-15T16:00:00-07:00</published><updated>2018-05-15T16:00:00-07:00</updated><id>http://kb.cmpny.com/network/which-wireless-networks-to-use-and-how-to-connect</id><content type="html" xml:base="http://kb.cmpny.com/network/which-wireless-networks-to-use-and-how-to-connect/">&lt;p&gt;&lt;u&gt;&lt;em&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/u&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="http://kb.cmpny.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://kb.cmpny.com/" rel="alternate" type="text/html" /><updated>2018-05-15T20:00:23-07:00</updated><id>http://kb.cmpny.com/</id><title type="html">CMPNY KB</title><subtitle>IT Knowledge Base by Tech Futures.</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><entry><title type="html">Which Wireless Networks to Use and How to Connect</title><link href="http://kb.cmpny.com/network/which-wireless-networks-to-use-and-how-to-connect/" rel="alternate" type="text/html" title="Which Wireless Networks to Use and How to Connect" /><published>2018-05-15T16:00:00-07:00</published><updated>2018-05-15T16:00:00-07:00</updated><id>http://kb.cmpny.com/network/which-wireless-networks-to-use-and-how-to-connect</id><content type="html" xml:base="http://kb.cmpny.com/network/which-wireless-networks-to-use-and-how-to-connect/">&lt;p&gt;&lt;u&gt;&lt;em&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/u&gt;&lt;/p&gt;
 
 &lt;p&gt;There are 4 wireless networks available for use at Spackeraft. This guide will outline which network to use.&lt;/p&gt;
 
@@ -111,7 +111,71 @@
 
 &lt;ul&gt;
   &lt;li&gt;If you know for sure that your password meets all the requirements listed, then this is usually caused if you have tried to change your password more than once in a 24 hour period. Please wait at least 24 hours and try changing your password again.&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html"></summary></entry><entry><title type="html">Bring Your Own Printer (BYOP)</title><link href="http://kb.cmpny.com/getting-started/bring-your-own-printer-byop/" rel="alternate" type="text/html" title="Bring Your Own Printer (BYOP)" /><published>2018-05-03T16:00:00-07:00</published><updated>2018-05-03T16:00:00-07:00</updated><id>http://kb.cmpny.com/getting-started/bring-your-own-printer-byop</id><content type="html" xml:base="http://kb.cmpny.com/getting-started/bring-your-own-printer-byop/">&lt;p&gt;If you would like to connect your own printer to the network please follow the steps below:&lt;/p&gt;
+&lt;/ul&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html"></summary></entry><entry><title type="html">Connecting to Spacekraft Private - Windows 7</title><link href="http://kb.cmpny.com/network/connecting-to-spacekraft-private-windows-7/" rel="alternate" type="text/html" title="Connecting to Spacekraft Private - Windows 7" /><published>2018-05-15T16:00:00-07:00</published><updated>2018-05-15T16:00:00-07:00</updated><id>http://kb.cmpny.com/network/connecting-to-spacekraft-private---windows-7</id><content type="html" xml:base="http://kb.cmpny.com/network/connecting-to-spacekraft-private-windows-7/">&lt;p&gt;&lt;u&gt;&lt;em&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;The Spacekraft Private network is hidden, therefore it does not show up in the list of available networks when you do a scan. You must add the network manually, follow the steps below to add it to your computer.&lt;/p&gt;
+
+&lt;h2 id=&quot;step-0-create-a-new-password&quot;&gt;Step 0: Create a new password&lt;/h2&gt;
+
+&lt;p&gt;If you haven’t already, head over to the &lt;a href=&quot;http://accounts.cmpny.com/pwm&quot; target=&quot;_blank&quot;&gt;Accounts Management Portal&lt;/a&gt; and create a new password for your account.&lt;/p&gt;
+
+&lt;p&gt;Your username is in the format of first name (dot) last name, for example Captain.Kirk.&lt;/p&gt;
+
+&lt;p&gt;For further information please visit the Create a New Password guide.&lt;/p&gt;
+
+&lt;h2 id=&quot;step-1-open-network-and-sharing-center&quot;&gt;Step 1: Open Network and Sharing Center&lt;/h2&gt;
+
+&lt;p&gt;Open the control panel and find Network and Sharing Center.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/capture.JPG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;step-2-click-setup-a-new-connection-or-network&quot;&gt;Step 2: Click Setup a new connection or network&lt;/h2&gt;
+
+&lt;p&gt;Once open, select Manually connect to a wireless network&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/capture2.JPG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;step-3-enter-the-connection-information&quot;&gt;Step 3: Enter the connection information&lt;/h2&gt;
+
+&lt;p&gt;Following the diagram below, copy the information exactly&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/capture4.JPG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;step-4-setup-complete&quot;&gt;Step 4: Setup Complete&lt;/h2&gt;
+
+&lt;p&gt;Once you have successfully completed the steps, the follow screen will appear. Select Change connection settings.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/capture5.JPG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;step-5-change-security-settings&quot;&gt;Step 5: Change security settings&lt;/h2&gt;
+
+&lt;p&gt;Select the Security  tab and click the Settings  button.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/capture6.JPG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;step-6-change-certificate-settings&quot;&gt;Step 6: Change certificate settings&lt;/h2&gt;
+
+&lt;p&gt;Uncheck Verify the server’s identity by validating the certificate. Double check it looks the same as the below image. Then click the Configure  button.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/capture7.JPG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;step-7-configure-authentication-method&quot;&gt;Step 7: Configure authentication method&lt;/h2&gt;
+
+&lt;p&gt;Check the box next to Specify authentication mode. In the drop down box, select User authentication. Then click Save credentials.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/capture9.JPG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;step-71-enter-user-credentials&quot;&gt;Step 7.1: Enter user credentials&lt;/h2&gt;
+
+&lt;p&gt;Enter your Spacekraft network credentials. Following the same first name dot last name convention. Follow the image below.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/capture10.JPG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;step-8-success&quot;&gt;Step 8: Success!&lt;/h2&gt;
+
+&lt;p&gt;After you have completed all the steps above you should be connected to Spacekraft Private.&lt;/p&gt;
+
+&lt;p&gt;Known issues:&lt;br /&gt;At this time you cannot print  to the Spacekraft printer while connected to Spacekraft Private network. Please disconnect and connect to the regular Spacekraft network.&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html"></summary></entry><entry><title type="html">Bring Your Own Printer (BYOP)</title><link href="http://kb.cmpny.com/getting-started/bring-your-own-printer-byop/" rel="alternate" type="text/html" title="Bring Your Own Printer (BYOP)" /><published>2018-05-03T16:00:00-07:00</published><updated>2018-05-03T16:00:00-07:00</updated><id>http://kb.cmpny.com/getting-started/bring-your-own-printer-byop</id><content type="html" xml:base="http://kb.cmpny.com/getting-started/bring-your-own-printer-byop/">&lt;p&gt;If you would like to connect your own printer to the network please follow the steps below:&lt;/p&gt;
 
 &lt;h2 id=&quot;connect-your-printer-to-the-network&quot;&gt;Connect your printer to the network&lt;/h2&gt;
 
@@ -319,58 +383,4 @@ E0553D8CC3F3
 
 &lt;p&gt;If you have successfully printed a document, a message will appear saying your document has been held in a queue.&lt;/p&gt;
 
-&lt;p&gt;Proceed to the printer to release your document. See the guide on using print release for more information.&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">Install the drivers and client app or use email-to-print to quickly get started. Spacekraft Print Services powered by Tech Futures provides full colour, black and white full duplex printing, automatic stapling, scanning, fax and copying capabilities. </summary></entry><entry><title type="html">Printer Setup - Mac OS X</title><link href="http://kb.cmpny.com/print%20services%20(burnaby)/printer-setup-mac-os-x/" rel="alternate" type="text/html" title="Printer Setup - Mac OS X" /><published>2018-03-05T16:00:00-08:00</published><updated>2018-03-05T16:00:00-08:00</updated><id>http://kb.cmpny.com/print%20services%20(burnaby)/printer-setup---mac-os-x</id><content type="html" xml:base="http://kb.cmpny.com/print%20services%20(burnaby)/printer-setup-mac-os-x/">&lt;p&gt;&lt;u&gt;&lt;em&gt;&lt;strong&gt;This Article applies to Burnaby Only&lt;/strong&gt;&lt;/em&gt;&lt;/u&gt;&lt;/p&gt;
-
-&lt;p&gt;Install the drivers and client app or use email-to-print to quickly get started. Spacekraft Print Services powered by Tech Futures provides full colour, black and white full duplex printing, automatic stapling, scanning, fax and copying capabilities. &lt;/p&gt;
-
-&lt;p&gt;&lt;u&gt;&lt;strong&gt;Please note that that the links below will only work if you are connected to &amp;ldquo;Spacekraft&amp;rdquo; wifi network.&lt;/strong&gt;&lt;/u&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;step-1-create-a-new-password&quot;&gt;Step 1: Create a new password&lt;a href=&quot;#step-1-create-a-new-password&quot; class=&quot;header-link&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-
-&lt;p&gt;Head over to the &lt;strong&gt;&lt;a href=&quot;http://accounts.cmpny.com/pwm&quot; target=&quot;_blank&quot;&gt;Accounts Management Portal&lt;/a&gt;&lt;/strong&gt; and create a new password for your account.&lt;/p&gt;
-
-&lt;p&gt;Your username is in the format of first name (dot) last name, for example Captain.Kirk.  &lt;br /&gt;Your password is the same network password for the rest of Spacekraft’s IT Services.&lt;/p&gt;
-
-&lt;p&gt;For further information please visit the &lt;a href=&quot;/getting-started/create-a-new-password/&quot; target=&quot;_blank&quot;&gt;&lt;u&gt;&lt;strong&gt;Create a New Password&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt; guide.&lt;/p&gt;
-
-&lt;h2 id=&quot;step-2-download-drivers-and-client-app&quot;&gt;Step 2: Download drivers and client app&lt;a href=&quot;#step-2-download-drivers-and-client-app&quot; class=&quot;header-link&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-
-&lt;p&gt;Download the &lt;a href=&quot;http://spacekraft.goprint.xyz/client/mac.zip&quot;&gt;&lt;strong&gt;Client Application&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&quot;http://spacekraft.goprint.xyz/drivers/mac_drivers.zip&quot;&gt;&lt;strong&gt;Drivers&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Once you have downloaded the client app, (right/control-clicking and selecting “Open”) open the file labeled client-local-install. After that is complete, install the drivers.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;blob:https://app.cloudcannon.com/40d8fb51-1812-40a8-8f68-722f25a36ba3&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;step-3-open-printers-and-scanners&quot;&gt;Step 3: Open Printers and Scanners&lt;/h2&gt;
-
-&lt;p&gt;Open System Preferences, then open Printers &amp;amp; Scanners.&lt;/p&gt;
-
-&lt;p&gt;Once open, right click (control+click) the top toolbar and select Customize Toolbar. Drag and drop the Advanced icon into the toolbar.&lt;/p&gt;
-
-&lt;h2 id=&quot;step-4-add-printer&quot;&gt;Step 4: Add Printer&lt;a href=&quot;#step-4-add-printer&quot; class=&quot;header-link&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-
-&lt;p&gt;Under the Advanced tab, copy the image below.&lt;/p&gt;
-
-&lt;p&gt;Enter the same information as shown in Type, Device and URL. You may use any Name and Location you want. For the Use field select Select Software… and choose the driver named HP LaserJet 700 Color MFP M775.&lt;/p&gt;
-
-&lt;h3 id=&quot;step-41-configure-printer&quot;&gt;Step 4.1: Configure Printer&lt;/h3&gt;
-
-&lt;p&gt;Set Tray 3 as HP 1500-Sheet Input Tray and Tray 4 as HP 2000-Sheet Input Tray. On the bottom, check the box next to HP 500-Sheet Stapler/Stacker.&lt;/p&gt;
-
-&lt;h3 id=&quot;step-42-printer-authentication&quot;&gt;Step 4.2: Printer Authentication&lt;/h3&gt;
-
-&lt;p&gt;A popup window may appear asking for a name and password. Enter “SPACEKRAFT\” followed by the same username and password as in step 1.&lt;/p&gt;
-
-&lt;h2 id=&quot;step-5-setup-complete&quot;&gt;Step 5: Setup Complete&lt;a href=&quot;#step-5-setup-complete&quot; class=&quot;header-link&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-
-&lt;p&gt;Once you have completed the above steps, you should see a screen similar the the one below.&lt;/p&gt;
-
-&lt;p&gt;First time printing&lt;/p&gt;
-
-&lt;p&gt;The first time you print a document a popup window will appear requiring your username and password. Enter your same username and password as in step 1. You may choose for your computer to remember your username/password until you logout so it will not prompt you every time you print.&lt;/p&gt;
-
-&lt;p&gt;Success!&lt;/p&gt;
-
-&lt;p&gt;If you have successfully printed a document, the following message will appear.&lt;/p&gt;
-
-&lt;p&gt;Proceed to the printer to release your document. See the guide on using print release for more information.&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">This Article applies to Burnaby Only</summary></entry></feed>
+&lt;p&gt;Proceed to the printer to release your document. See the guide on using print release for more information.&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">Install the drivers and client app or use email-to-print to quickly get started. Spacekraft Print Services powered by Tech Futures provides full colour, black and white full duplex printing, automatic stapling, scanning, fax and copying capabilities. </summary></entry></feed>
