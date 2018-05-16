@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="http://kb.cmpny.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://kb.cmpny.com/" rel="alternate" type="text/html" /><updated>2018-05-15T18:39:31-07:00</updated><id>http://kb.cmpny.com/</id><title type="html">CMPNY KB</title><subtitle>IT Knowledge Base by Tech Futures.</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><entry><title type="html">Print using a USB Device</title><link href="http://kb.cmpny.com/print%20services%20(burnaby)/print-using-a-usb-device/" rel="alternate" type="text/html" title="Print using a USB Device" /><published>2018-05-15T16:00:00-07:00</published><updated>2018-05-15T16:00:00-07:00</updated><id>http://kb.cmpny.com/print%20services%20(burnaby)/print-using-a-usb-device</id><content type="html" xml:base="http://kb.cmpny.com/print%20services%20(burnaby)/print-using-a-usb-device/">&lt;p&gt;If you have not already head over to the &lt;a href=&quot;http://accounts.cmpny.com/pwm&quot; target=&quot;_blank&quot;&gt;Accounts Management Portal&lt;/a&gt; and &lt;a href=&quot;/getting-started/create-a-new-password/&quot;&gt;create a new password&lt;/a&gt; for your account.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="http://kb.cmpny.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://kb.cmpny.com/" rel="alternate" type="text/html" /><updated>2018-05-15T18:47:02-07:00</updated><id>http://kb.cmpny.com/</id><title type="html">CMPNY KB</title><subtitle>IT Knowledge Base by Tech Futures.</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><entry><title type="html">Print using a USB Device</title><link href="http://kb.cmpny.com/print%20services%20(burnaby)/print-using-a-usb-device/" rel="alternate" type="text/html" title="Print using a USB Device" /><published>2018-05-15T16:00:00-07:00</published><updated>2018-05-15T16:00:00-07:00</updated><id>http://kb.cmpny.com/print%20services%20(burnaby)/print-using-a-usb-device</id><content type="html" xml:base="http://kb.cmpny.com/print%20services%20(burnaby)/print-using-a-usb-device/">&lt;p&gt;If you have not already head over to the &lt;a href=&quot;http://accounts.cmpny.com/pwm&quot; target=&quot;_blank&quot;&gt;Accounts Management Portal&lt;/a&gt; and &lt;a href=&quot;/getting-started/create-a-new-password/&quot;&gt;create a new password&lt;/a&gt; for your account.&lt;/p&gt;
 
 &lt;p&gt;Insert your USB drive into the USB slot to the left of the Fob reader.&lt;br /&gt;Login with your fob or username/password.&lt;br /&gt;Touch &lt;strong&gt;Print&lt;/strong&gt;&lt;/p&gt;
 
@@ -20,7 +20,44 @@
 
 &lt;p&gt;&lt;img src=&quot;/uploads/auto-logout.PNG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt; &lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">If you have not already head over to the Accounts Management Portal and create a new password for your account.</summary></entry><entry><title type="html">Bring Your Own Printer (BYOP)</title><link href="http://kb.cmpny.com/getting-started/bring-your-own-printer-byop/" rel="alternate" type="text/html" title="Bring Your Own Printer (BYOP)" /><published>2018-05-03T16:00:00-07:00</published><updated>2018-05-03T16:00:00-07:00</updated><id>http://kb.cmpny.com/getting-started/bring-your-own-printer-byop</id><content type="html" xml:base="http://kb.cmpny.com/getting-started/bring-your-own-printer-byop/">&lt;p&gt;If you would like to connect your own printer to the network please follow the steps below:&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">If you have not already head over to the Accounts Management Portal and create a new password for your account.</summary></entry><entry><title type="html">Create a New Password</title><link href="http://kb.cmpny.com/getting-started/create-a-new-password/" rel="alternate" type="text/html" title="Create a New Password" /><published>2018-05-15T16:00:00-07:00</published><updated>2018-05-15T16:00:00-07:00</updated><id>http://kb.cmpny.com/getting-started/create-a-new-password</id><content type="html" xml:base="http://kb.cmpny.com/getting-started/create-a-new-password/">&lt;p&gt;&lt;u&gt;&lt;em&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;u&gt;&lt;strong&gt;If you did not request a user account from the space manager upon joining, please submit a ticket to support@cmpny.com with the information below.&lt;/strong&gt;&lt;/u&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Full Name:&lt;/li&gt;
+  &lt;li&gt;Your Company:&lt;/li&gt;
+  &lt;li&gt;Company Location: (Burnaby/Coquitlam)&lt;/li&gt;
+  &lt;li&gt;Plan Type: (Office #, Personal Desk #, Hot Desk)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;password-reset&quot;&gt;Password Reset&lt;/h2&gt;
+
+&lt;p&gt;Head over to the &lt;a href=&quot;http://accounts.cmpny.com/pwm&quot;&gt;Accounts Management Portal&lt;/a&gt; and create a new password for your account.&lt;/p&gt;
+
+&lt;p&gt;Use the &lt;strong&gt;Forgotten Password&lt;/strong&gt; button and enter your username (see format below).&lt;br /&gt;Your username is in the format of &lt;strong&gt;First Name (dot) Last Name&lt;/strong&gt;&lt;br /&gt;For example &lt;strong&gt;Captain.Kirk&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;Alternatively, you may login using your temporary password if you have one.&lt;br /&gt;You will be sent a link to your registered email with further instructions to reset your password, this link expires within 1 hour.&lt;br /&gt;For security reasons your email cannot be changed by submitting a support ticket, if you require to change your email please see the front desk. &lt;/p&gt;
+
+&lt;h2 id=&quot;user-account-uses&quot;&gt;User Account Uses&lt;/h2&gt;
+
+&lt;p&gt;This same username and password is used for all Spacekraft IT Services, Print Services and the Private Wireless Network.&lt;/p&gt;
+
+&lt;p&gt;Please note, you will not be able to use any services until you have created a new password.&lt;/p&gt;
+
+&lt;p&gt;If you change your password after you have connected to Spacekraft Print Services or the Spacekraft Private Wi-Fi network, you may have to log out/reboot your computer to reset the saved credentials. For the Wi-Fi network your computer may prompt you to enter your new password, if it doesn’t you will have to follow the appropriate Connecting to Spacekraft Private guide to change your stored password.&lt;/p&gt;
+
+&lt;h2 id=&quot;common-error-messages&quot;&gt;Common Error Messages&lt;/h2&gt;
+
+&lt;h5 id=&quot;there-is-no-contact-information-available-for-your-account-please-contact-your-administrator&quot;&gt;There is no contact information available for your account. Please contact your administrator.&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;If you receive this message, it means we do not have an email listed for your account. For security reasons we cannot update your email via a support ticket,  please see the front desk to associate an email with your account. &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;password-does-not-meet-complexity-requirements&quot;&gt;Password does not meet complexity requirements&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;If you know for sure that your password meets all the requirements listed, then this is usually caused if you have tried to change your password more than once in a 24 hour period. Please wait at least 24 hours and try changing your password again.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html"></summary></entry><entry><title type="html">Bring Your Own Printer (BYOP)</title><link href="http://kb.cmpny.com/getting-started/bring-your-own-printer-byop/" rel="alternate" type="text/html" title="Bring Your Own Printer (BYOP)" /><published>2018-05-03T16:00:00-07:00</published><updated>2018-05-03T16:00:00-07:00</updated><id>http://kb.cmpny.com/getting-started/bring-your-own-printer-byop</id><content type="html" xml:base="http://kb.cmpny.com/getting-started/bring-your-own-printer-byop/">&lt;p&gt;If you would like to connect your own printer to the network please follow the steps below:&lt;/p&gt;
 
 &lt;h2 id=&quot;connect-your-printer-to-the-network&quot;&gt;Connect your printer to the network&lt;/h2&gt;
 
@@ -330,27 +367,4 @@ E0553D8CC3F3
 
 &lt;p&gt;Select the Print Release icon&lt;br /&gt; &lt;/p&gt;
 
-&lt;p&gt;All your printer jobs will be displayed, if you have multiple documents in the queue they will all be selected by default. Use the check boxes to select the documents you want to print. Details on the print jobs will be displayed on the right once you click the “I” icon. Once you are ready to print, select the Print button on the bottom right of the screen.&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">Releasing documents held in queue</summary></entry><entry><title type="html">Price Guide</title><link href="http://kb.cmpny.com/print%20services%20(burnaby)/price-guide/" rel="alternate" type="text/html" title="Price Guide" /><published>2018-03-05T16:00:00-08:00</published><updated>2018-03-05T16:00:00-08:00</updated><id>http://kb.cmpny.com/print%20services%20(burnaby)/price-guide</id><content type="html" xml:base="http://kb.cmpny.com/print%20services%20(burnaby)/price-guide/">&lt;p class=&quot;present-before-paste&quot;&gt;&lt;u&gt;&lt;em&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/u&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;printing-and-copying&quot;&gt;Printing and Copying&lt;/h2&gt;
-
-&lt;p class=&quot;present-before-paste&quot;&gt;If it does, please wait 5-10 seconds and try again. This is caused when the printer is in sleep mode for an extended period of time.&lt;/p&gt;
-
-&lt;h3 id=&quot;printing-and-copying-1&quot;&gt;Printing and Copying&lt;/h3&gt;
-
-&lt;div id=&quot;content&quot;&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th class=&quot;current&quot;&gt;Size&lt;/th&gt;&lt;th&gt;Color&lt;/th&gt;&lt;th&gt;Grayscale&lt;/th&gt;&lt;th&gt;Color duplex&lt;div&gt;(each side)&lt;/div&gt;&lt;/th&gt;&lt;th&gt;Grayscale duplex&lt;p style=&quot;margin-bottom:15px;&quot; class=&quot;present-before-paste&quot;&gt;(each side)&lt;/p&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr data-paper-size=&quot;A0&quot;&gt;&lt;td&gt;&lt;p style=&quot;margin-bottom:15px;&quot; class=&quot;present-before-paste&quot;&gt;&lt;span&gt;&amp;nbsp;LETTER &amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: Roboto, 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: 13px; font-weight: normal;&quot;&gt;(ANSI_A)&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;$0.50&lt;/td&gt;&lt;td&gt;$0.10&lt;/td&gt;&lt;td&gt;$0.48&lt;/td&gt;&lt;td&gt;$0.08&lt;/td&gt;&lt;/tr&gt;&lt;tr data-paper-size=&quot;LETTER&quot;&gt;&lt;td&gt;&lt;p style=&quot;margin-bottom:15px;&quot; class=&quot;present-before-paste&quot;&gt;&lt;span&gt;&amp;nbsp;LEGAL &amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: Roboto, 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: 13px; font-weight: normal;&quot;&gt;(LEGAL-14)&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;$0.55&lt;/td&gt;&lt;td&gt;$0.15&lt;/td&gt;&lt;td&gt;$0.53&lt;/td&gt;&lt;td&gt;$0.13&lt;/td&gt;&lt;/tr&gt;&lt;tr data-paper-size=&quot;LEGAL&quot;&gt;&lt;td&gt;&lt;p style=&quot;margin-bottom:15px;&quot; class=&quot;present-before-paste&quot;&gt;&lt;span style=&quot;font-family: Roboto, 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: 13px; font-weight: normal;&quot;&gt;11X17 &amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: Roboto, 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: 13px; font-weight: normal;&quot;&gt;(Ledger)&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;$1.00&lt;/td&gt;&lt;td&gt;$0.50&lt;/td&gt;&lt;td&gt;$0.98&lt;/td&gt;&lt;td&gt;$0.48&lt;/td&gt;&lt;/tr&gt;&lt;tr data-paper-size=&quot;FOLIO&quot;&gt;&lt;td&gt;Other&lt;/td&gt;&lt;td&gt;$0.50&lt;/td&gt;&lt;td&gt;$0.10&lt;/td&gt;&lt;td&gt;$0.50&lt;/td&gt;&lt;td&gt;&lt;p&gt;$0.10&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
-
-&lt;h3 id=&quot;scan-to-email&quot;&gt;Scan to Email&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Free&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;faxing&quot;&gt;Faxing&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Sending: $0.05/page&lt;/li&gt;
-  &lt;li&gt;Receiving: PDF, $0.05/page. Printed, $0.13/page (automatic duplex).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p class=&quot;present-before-paste&quot;&gt; &lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html"></summary></entry></feed>
+&lt;p&gt;All your printer jobs will be displayed, if you have multiple documents in the queue they will all be selected by default. Use the check boxes to select the documents you want to print. Details on the print jobs will be displayed on the right once you click the “I” icon. Once you are ready to print, select the Print button on the bottom right of the screen.&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">Releasing documents held in queue</summary></entry></feed>
