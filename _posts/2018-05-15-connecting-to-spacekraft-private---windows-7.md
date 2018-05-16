@@ -1,5 +1,5 @@
 ---
-date: 2018-03-05 16:00:00 -0800
+date: 2018-05-15 16:00:00 -0700
 title: Connecting to Spacekraft Private - Windows 7
 categories:
   - Network
@@ -17,7 +17,7 @@ If you haven't already, head over to the&nbsp;[Accounts Management Portal](http:
 
 Your username is in the format of first name (dot) last name, for example Captain.Kirk.
 
-For further information please visit the&nbsp;[Create a New Password](http://support.spacekraft.co/support/solutions/articles/1000019662-create-a-new-password){: target="_blank"}&nbsp;guide.
+For further information please visit the Create a New Password&nbsp;guide.
 
 ## Step 1: Open Network and Sharing Center
 
