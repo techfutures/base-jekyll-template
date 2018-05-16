@@ -24,7 +24,7 @@ Use the **Forgotten Password** button and enter your username (see format below)
 
 ## User Account Uses
 
-This same username and password is used for all Spacekraft IT Services, Print Services and the [Private Wireless Network](/getting-started/create-a-new-password/).
+This same username and password is used for all Spacekraft IT Services, Print Services and the [Private Wireless Network](/network/which-wireless-networks-to-use-and-how-to-connect/).
 
 Please note, you will not be able to use any services until you have created a new password.
 
