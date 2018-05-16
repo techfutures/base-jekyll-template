@@ -17,7 +17,7 @@ If you haven't already, head over to the&nbsp;[Accounts Management Portal](http:
 
 Your username is in the format of first name (dot) last name, for example Captain.Kirk.
 
-For further information please visit the Create a New Password&nbsp;guide.
+For further information please visit the [Create a New Password](/getting-started/create-a-new-password/)&nbsp;guide.
 
 ## Step 1: Open Network and Sharing Center
 
