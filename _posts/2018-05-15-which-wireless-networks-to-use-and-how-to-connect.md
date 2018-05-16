@@ -1,5 +1,5 @@
 ---
-date: 2018-03-05 16:00:00 -0800
+date: 2018-05-15 16:00:00 -0700
 title: Which Wireless Networks to Use and How to Connect
 categories:
   - Network
@@ -29,11 +29,15 @@ There are 4 wireless networks available for use at Spackeraft. This guide will o
 
 ## Spacekraft Private
 
-<u><strong>Description:</strong></u><br>For private office members , it creates a virtual network which bridges the wired network and wireless so they can share files and view devices within their organization.
+<u><strong>Description:</strong></u><br>For private office members, it creates a virtual network which bridges the wired network and wireless so they can share files and view devices within their organization.
 
-<u><strong>Function:</strong></u><br>Allows you to view any device connected via wired or wireless and share files and talk to each other.
+<u><strong>Function:</strong></u><br>Allows you to view any device connected via wired or wireless and share files and talk to each other, some examples below
 
-<u><strong>Use:</strong></u><br>This network is hidden, to connect please see the Windows, Mac OS X or Android guide.
+* PC to PC
+* In office printer to PC
+* Phone to PC
+
+<u><strong>Use:</strong></u><br>This network is hidden, to connect please see the [Windows](/network/connecting-to-spacekraft-private-windows-7/), [Mac OS X](/network/connecting-to-spacekraft-private-mac-os-x/) or [Android](/network/connecting-to-spacekraft-private-android/) guide.
 
 ## CloudSingularity Open
 
