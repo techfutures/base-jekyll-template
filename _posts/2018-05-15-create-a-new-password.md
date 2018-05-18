@@ -12,8 +12,8 @@ type: Document
 *<u><strong>If you did not request a user account from the space manager upon joining, please submit a ticket to support@cmpny.com with the information below.</strong></u>*
 
 * Full Name:
-* Your Company:
-* Company Location: (Burnaby/Coquitlam)
+* Company Name:
+* CMPNY Location: (Burnaby/Coquitlam)
 * Plan Type: (Office #, Personal Desk #, Hot Desk)
 
 ## Password Reset
