@@ -49,6 +49,8 @@ Once open, click Add Printer on the top toolbar. The following window will appea
 
 Select the shared printer by name option, and copy the image by entering \\\\10.210.10.3\\HP MFP
 
+Note: Some windows versions prefer lowercase<br>\\\\10.210.10.3\\hp mfp
+
 ![](/uploads/add-printer-2.JPG)
 
 Installation may take 1-5 minutes, and the following screen will appear.
