@@ -21,7 +21,7 @@ For further information please visit the [Create a New Password](/getting-starte
 
 ## Step 2: Download drivers and client app
 
-Download the client application.
+Download the [Client Application.](http://spacekraft.goprint.xyz/client/win.zip)
 
 Once you have downloaded the client app zip folder, extract it first then launch the file labeled client-local-install.
 
