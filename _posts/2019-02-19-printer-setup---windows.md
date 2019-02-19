@@ -1,7 +1,8 @@
 ---
-date: 2019-02-19 15:14:37 -0800
-title: Printer Setup - Windows (COQ)
+date: 2019-02-19 15:14:00 -0800
+title: Printer Setup - Windows
 categories:
+  - Print Services (Coquitlam)
 description:
 type: Document
 ---
