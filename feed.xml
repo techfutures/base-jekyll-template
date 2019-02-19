@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="http://kb.cmpny.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://kb.cmpny.com/" rel="alternate" type="text/html" /><updated>2019-02-19T14:53:09-08:00</updated><id>http://kb.cmpny.com/</id><title type="html">CMPNY KB</title><subtitle>IT Knowledge Base by Tech Futures.</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><entry><title type="html">Which Wireless Networks to Use and How to Connect</title><link href="http://kb.cmpny.com/network/which-wireless-networks-to-use-and-how-to-connect/" rel="alternate" type="text/html" title="Which Wireless Networks to Use and How to Connect" /><published>2018-05-15T16:00:00-07:00</published><updated>2018-05-15T16:00:00-07:00</updated><id>http://kb.cmpny.com/network/which-wireless-networks-to-use-and-how-to-connect</id><content type="html" xml:base="http://kb.cmpny.com/network/which-wireless-networks-to-use-and-how-to-connect/">&lt;p&gt;&lt;u&gt;&lt;em&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/u&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="http://kb.cmpny.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://kb.cmpny.com/" rel="alternate" type="text/html" /><updated>2019-02-19T15:15:07-08:00</updated><id>http://kb.cmpny.com/</id><title type="html">CMPNY KB</title><subtitle>IT Knowledge Base by Tech Futures.</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><entry><title type="html">Printer Setup - Windows (COQ)</title><link href="http://kb.cmpny.com/printer-setup-windows-coq/" rel="alternate" type="text/html" title="Printer Setup - Windows (COQ)" /><published>2019-02-19T15:14:37-08:00</published><updated>2019-02-19T15:14:37-08:00</updated><id>http://kb.cmpny.com/printer-setup---windows-coq</id><content type="html" xml:base="http://kb.cmpny.com/printer-setup-windows-coq/">&lt;p&gt;Please note:&lt;br /&gt;- Printing is unavailable on the ‘Cloudsingularity Open’ Network, if you use this network please use the front desk for printing.&lt;/p&gt;
+
+&lt;p&gt;Step 1: Download drivers&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">Please note:- Printing is unavailable on the ‘Cloudsingularity Open’ Network, if you use this network please use the front desk for printing.</summary></entry><entry><title type="html">Which Wireless Networks to Use and How to Connect</title><link href="http://kb.cmpny.com/network/which-wireless-networks-to-use-and-how-to-connect/" rel="alternate" type="text/html" title="Which Wireless Networks to Use and How to Connect" /><published>2018-05-15T16:00:00-07:00</published><updated>2018-05-15T16:00:00-07:00</updated><id>http://kb.cmpny.com/network/which-wireless-networks-to-use-and-how-to-connect</id><content type="html" xml:base="http://kb.cmpny.com/network/which-wireless-networks-to-use-and-how-to-connect/">&lt;p&gt;&lt;u&gt;&lt;em&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/u&gt;&lt;/p&gt;
 
 &lt;p&gt;There are 4 wireless networks available for use at Spackeraft. This guide will outline which network to use.&lt;/p&gt;
 
@@ -303,86 +305,4 @@ E0553D8CC3F3
 
 &lt;ol&gt;
   &lt;li&gt;The Licensee is not permitted to operate any servers that would serve content outside the Spacekraft network such as but not limited to email, web or voice servers.&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">Below is a copy of the CMPNY IT Policy, as per the member agreement.</summary></entry><entry><title type="html">Printer Setup - Windows</title><link href="http://kb.cmpny.com/print%20services%20(burnaby)/printer-setup-windows/" rel="alternate" type="text/html" title="Printer Setup - Windows" /><published>2018-03-05T16:00:00-08:00</published><updated>2018-03-05T16:00:00-08:00</updated><id>http://kb.cmpny.com/print%20services%20(burnaby)/printer-setup---windows</id><content type="html" xml:base="http://kb.cmpny.com/print%20services%20(burnaby)/printer-setup-windows/">&lt;p&gt;&lt;u&gt;&lt;em&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/u&gt;Install the drivers and client app or use email-to-print to quickly get started. Spacekraft Print Services powered by Tech Futures provides full colour, black and white full duplex printing, automatic stapling, scanning, fax and copying capabilities. &lt;/p&gt;
-
-&lt;p&gt;Please note that that the links below will only work if you are connected to “Spacekraft” wifi network.&lt;/p&gt;
-
-&lt;h2 id=&quot;step-1-create-a-new-password&quot;&gt;Step 1: Create a new password&lt;/h2&gt;
-
-&lt;p&gt;Head over to the &lt;a href=&quot;http://accounts.cmpny.com/pwm&quot; target=&quot;_blank&quot;&gt;Accounts Management Portal&lt;/a&gt; and create a new password for your account.&lt;/p&gt;
-
-&lt;p&gt;Your username is in the format of first name (dot) last name, for example Captain.Kirk. Your password is the same network password for the rest of Spacekraft’s IT Services,&lt;/p&gt;
-
-&lt;p&gt;For further information please visit the &lt;a href=&quot;/getting-started/create-a-new-password/&quot;&gt;Create a New Password&lt;/a&gt; guide.&lt;/p&gt;
-
-&lt;h2 id=&quot;step-2-download-drivers-and-client-app&quot;&gt;Step 2: Download drivers and client app&lt;/h2&gt;
-
-&lt;p&gt;Download the &lt;a href=&quot;http://spacekraft.goprint.xyz/client/win.zip&quot;&gt;Client Application.&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Once you have downloaded the client app zip folder, extract it first then launch the file labeled client-local-install.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/uploads/1-client-install.JPG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/uploads/client-install-complete.JPG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;You may be prompted to login using the same username and password as in step 1.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/uploads/papercut-login.JPG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Once you have successfully logged in, you should see the account balance window.&lt;br /&gt;(Balance will vary)&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/uploads/papercut-balance.JPG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;step-3-open-printers-and-scanners&quot;&gt;Step 3: Open Printers and Scanners&lt;/h2&gt;
-
-&lt;p&gt;Open Control Panel, then open Devices &amp;amp; Printers.&lt;/p&gt;
-
-&lt;p&gt;Once open, click Add Printer on the top toolbar. The following window will appear, choose The Printer that I want isn’t listed.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/uploads/add-printer-regular.JPG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;step-4-add-printer&quot;&gt;Step 4: Add Printer&lt;/h2&gt;
-
-&lt;p&gt;Select the shared printer by name option, and copy the image by entering \\10.210.10.3\HP MFP&lt;/p&gt;
-
-&lt;p&gt;Note: Some windows versions prefer lowercase&lt;br /&gt;\\10.210.10.3\hp mfp&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/uploads/add-printer-2.JPG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Installation may take 1-5 minutes, and the following screen will appear.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/uploads/connecting-window.JPG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;A popup window may appear asking for a name and password. Enter “SPACEKRAFT\” followed by the same username and password as in step 1.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/uploads/windows-printer-auth.JPG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Once the printer has been successfully added you will see the following screen.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/uploads/add-printer-success.JPG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;step-41-configure-printer&quot;&gt;Step 4.1: Configure Printer&lt;/h2&gt;
-
-&lt;p&gt;Right click the printer and select Printer properties.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/uploads/right-click-properties.JPG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Select the Device Settings tab and set Tray 3 as HP 1500-Sheet Input Tray and Tray 4 as HP 2000-Sheet Input Tray.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/uploads/tray-properties.JPG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;setup-complete&quot;&gt;Setup Complete&lt;/h3&gt;
-
-&lt;p&gt; &lt;/p&gt;
-
-&lt;h2 id=&quot;first-time-printing&quot;&gt;First time printing&lt;/h2&gt;
-
-&lt;p&gt;The first time you print a document a popup window will appear requiring your username and password. Enter your same username and password as in step 1. You may choose for your computer to remember your username/password until you logout so it will not prompt you every time you print.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/uploads/login-required-for-pritner-access.JPG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Success!&lt;/p&gt;
-
-&lt;p&gt;If you have successfully printed a document, a message will appear saying your document has been held in a queue.&lt;/p&gt;
-
-&lt;p&gt;Proceed to the printer to release your document. See the guide on using print release for more information.&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">Install the drivers and client app or use email-to-print to quickly get started. Spacekraft Print Services powered by Tech Futures provides full colour, black and white full duplex printing, automatic stapling, scanning, fax and copying capabilities. </summary></entry></feed>
+&lt;/ol&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">Below is a copy of the CMPNY IT Policy, as per the member agreement.</summary></entry></feed>
