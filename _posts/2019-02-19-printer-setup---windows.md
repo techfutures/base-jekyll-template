@@ -19,11 +19,11 @@ Download drivers for the&nbsp;[**HP Color LaserJet Pro MFP M477fnw,**](https://s
 
 Double-click the installer, if prompted click yes to allow the app to make changes to your pc.
 
-In the **Software Selection** Screen, click **Customize software selections,** then **Next**
+In the **Software Selection** Screen, click **Customize software selections,** then **Next.**
 
 ![](/uploads/step2.PNG)
 
-**Deselect** the following options​​​​​​​, then click **Next**
+**Deselect** the following options​​​​​​​, then click **Next.**
 
 * HP Scan
 * HP Device Experience
@@ -31,12 +31,16 @@ In the **Software Selection** Screen, click **Customize software selections,** t
 
 ![](/uploads/step3.PNG)
 
-Read the **Installation Agreements and Setting** Page, then click the **checkbox** next to **I have reviewed and accept the installation agreements,** then click **Next**
+Read the **Installation Agreements and Setting** Page, then click the **checkbox** next to **I have reviewed and accept the installation agreements,** then click **Next.**
 
 ![](/uploads/step4.PNG)
 
-&nbsp;
+Click **Next** once the loading screen completes.
 
 ![](/uploads/step5.PNG)
+
+Select **Connect through a network**, then **Search using an IP Address.**<br>Enter **172.20.10.20**, and click **Next**.
+
+![](/uploads/step6.PNG)
 
 &nbsp;
