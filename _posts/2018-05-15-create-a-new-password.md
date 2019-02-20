@@ -10,7 +10,7 @@ type: Document
 <u><em><strong></strong></em></u>
 {: .present-before-paste}
 
-*<u><strong>If you did not request a user account from the space manager upon joining, please submit a ticket to support@cmpny.com with the information below.</strong></u>*
+*<u><strong>If you did not request a user account from the space manager upon joining, or need your password reset, please submit a ticket to support@cmpny.com with the information below.</strong></u>*
 {: .present-before-paste}
 
 * First/Last Name
