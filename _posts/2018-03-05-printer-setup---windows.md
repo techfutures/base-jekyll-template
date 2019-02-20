@@ -11,13 +11,14 @@ type: Document
 
 Please note that that the links below will only work if you are connected to "Spacekraft" wifi network.
 
-## Step 1: Create a new password
+## Step 1: Create an Account
 
-Head over to the [Accounts Management Portal](http://accounts.cmpny.com/pwm){: target="_blank"} and create a new password for your account.
+Email support@cmpny.com to have a print account setup for you with the following information.
 
-Your username is in the format of first name (dot) last name, for example Captain.Kirk. Your password is the same network password for the rest of Spacekraft's IT Services,
-
-For further information please visit the [Create a New Password](/getting-started/create-a-new-password/) guide.
+* First/Last Name:
+* Company Name:
+* Email Address:
+* Preferred Password:
 
 ## Step 2: Download drivers and client app
 
@@ -76,8 +77,6 @@ Select the Device Settings tab and set Tray 3 as HP 1500-Sheet Input Tray and Tr
 ![](/uploads/tray-properties.JPG)
 
 ### Setup Complete
-
-&nbsp;
 
 ## First time printing
 
