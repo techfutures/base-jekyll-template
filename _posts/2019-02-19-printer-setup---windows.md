@@ -41,4 +41,16 @@ Select **Connect through a network**, then **Search using an IP Address.**<br>En
 
 ![](/uploads/step6.PNG)
 
+Click Next if you see the below printer information, if no printer is found contact support@cmpny.com
+
+![](/uploads/step7.PNG)
+
+This will take a while
+
+![](/uploads/step8.PNG)
+
+Uncheck **Print a test page**<br>Optionally Uncheck **Set as default printer**
+
+![](/uploads/step9.PNG)
+
 &nbsp;
