@@ -9,7 +9,7 @@ type: Document
 
 Please note:<br>- Printing is unavailable on the '**Cloudsingularity Open**' Network, if you use this network please use the front desk for printing.<br>- At this time printing is available only during **normal business hours (9am-5pm)**
 
-## Step 1: Download drivers
+## Download drivers
 
 Download drivers for the&nbsp;[**HP Color LaserJet Pro MFP M477fnw,**](https://support.hp.com/za-en/drivers/selfservice/hp-color-laserjet-pro-mfp-m477-series/7326560/model/7326562)<br>If required, use the **‘Selected operating system’** field to select your appropriate OS
 
