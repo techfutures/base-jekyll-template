@@ -7,8 +7,6 @@ description:
 type: Document
 ---
 
-# Printer Setup - Windows
-
 Please note:<br>- Printing is unavailable on the '**Cloudsingularity Open**' Network, if you use this network please use the front desk for printing.<br>- At this time printing is available only during **normal business hours (9am-5pm)**
 
 ## Step 1: Download drivers
@@ -23,7 +21,7 @@ In the **Software Selection** Screen, click **Customize software selections,** t
 
 ![](/uploads/step2.PNG)
 
-**Deselect** the following options​​​​​​​, then click **Next.**
+**Deselect** the following options, then click **Next.**
 
 * HP Scan
 * HP Device Experience
