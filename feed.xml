@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="http://kb.cmpny.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://kb.cmpny.com/" rel="alternate" type="text/html" /><updated>2019-02-19T22:42:05-08:00</updated><id>http://kb.cmpny.com/</id><title type="html">CMPNY KB</title><subtitle>IT Knowledge Base by Tech Futures.</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><entry><title type="html">Printer Setup - Windows</title><link href="http://kb.cmpny.com/print%20services%20(coquitlam)/printer-setup-windows/" rel="alternate" type="text/html" title="Printer Setup - Windows" /><published>2019-02-19T15:14:00-08:00</published><updated>2019-02-19T15:14:00-08:00</updated><id>http://kb.cmpny.com/print%20services%20(coquitlam)/printer-setup---windows</id><content type="html" xml:base="http://kb.cmpny.com/print%20services%20(coquitlam)/printer-setup-windows/">&lt;p&gt;Please note:&lt;br /&gt;- Printing is unavailable on the ‘&lt;strong&gt;Cloudsingularity Open&lt;/strong&gt;’ Network, if you use this network please use the front desk for printing.&lt;br /&gt;- At this time printing is available only during &lt;strong&gt;normal business hours (9am-5pm)&lt;/strong&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="http://kb.cmpny.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://kb.cmpny.com/" rel="alternate" type="text/html" /><updated>2019-02-19T22:42:35-08:00</updated><id>http://kb.cmpny.com/</id><title type="html">CMPNY KB</title><subtitle>IT Knowledge Base by Tech Futures.</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><entry><title type="html">Printer Setup - Mac OS X</title><link href="http://kb.cmpny.com/print%20services%20(coquitlam)/printer-setup-mac-os-x/" rel="alternate" type="text/html" title="Printer Setup - Mac OS X" /><published>2019-02-19T16:00:00-08:00</published><updated>2019-02-19T16:00:00-08:00</updated><id>http://kb.cmpny.com/print%20services%20(coquitlam)/printer-setup---mac-os-x</id><content type="html" xml:base="http://kb.cmpny.com/print%20services%20(coquitlam)/printer-setup-mac-os-x/">&lt;p&gt;&lt;strong&gt;&lt;em&gt;&lt;u&gt;Coming Soon&lt;/u&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">Coming Soon</summary></entry><entry><title type="html">Printer Setup - Windows</title><link href="http://kb.cmpny.com/print%20services%20(coquitlam)/printer-setup-windows/" rel="alternate" type="text/html" title="Printer Setup - Windows" /><published>2019-02-19T15:14:00-08:00</published><updated>2019-02-19T15:14:00-08:00</updated><id>http://kb.cmpny.com/print%20services%20(coquitlam)/printer-setup---windows</id><content type="html" xml:base="http://kb.cmpny.com/print%20services%20(coquitlam)/printer-setup-windows/">&lt;p&gt;Please note:&lt;br /&gt;- Printing is unavailable on the ‘&lt;strong&gt;Cloudsingularity Open&lt;/strong&gt;’ Network, if you use this network please use the front desk for printing.&lt;br /&gt;- At this time printing is available only during &lt;strong&gt;normal business hours (9am-5pm)&lt;/strong&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;download-drivers&quot;&gt;Download drivers&lt;/h2&gt;
 
@@ -268,87 +268,4 @@ E0553D8CC3F3
 
 &lt;p&gt;When attempting to use a fob to login to the printer a popup screen with the message “Unable to Contact Server” may appear.&lt;/p&gt;
 
-&lt;p&gt;If it does, please wait 5-10 seconds and try again. This is caused when the printer is in sleep mode for an extended period of time.&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html"></summary></entry><entry><title type="html">Section B: IT Policy</title><link href="http://kb.cmpny.com/network/section-b-it-policy/" rel="alternate" type="text/html" title="Section B: IT Policy" /><published>2018-03-05T16:00:00-08:00</published><updated>2018-03-05T16:00:00-08:00</updated><id>http://kb.cmpny.com/network/section-b-it-policy</id><content type="html" xml:base="http://kb.cmpny.com/network/section-b-it-policy/">&lt;p&gt;&lt;u&gt;&lt;em&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/u&gt;Below is a copy of the CMPNY IT Policy, as per the member agreement.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;Spacekraft agrees to provide Internet access via WiFi or wired connection on an “as is” basis to the Licensee as part of the Licensed Space. Only a single device may be connected to a wired network port at any one-time. Exceptions may be made for SIP phones with built in PC ports. See section 13.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Spacekraft agrees to provide pay per use printer access to the Licensee.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Spacekraft agrees  to provide support on a best effort basis during the hours of 9AM-5PM via on-site support or the support portal (support.spacekraft.co), for the following issues only:&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;a. Getting connected to the Spacekraft Network (the “Network”) and the Internet via wireless or wired connection on the following operating systems:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Microsoft Windows 7, 8, 8.1 and 10&lt;/li&gt;
-  &lt;li&gt;Apple OS X 10.6, 10.7, 10.8, 10.9, 10.10, 10.11&lt;/li&gt;
-  &lt;li&gt;Apple iOS (stock, un-modified or rooted)&lt;/li&gt;
-  &lt;li&gt;Google Android (stock, un-modified or rooted)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;b. Being able to print to the Spacekraft printer from supported operating systems:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Microsoft Windows 7, 8, 8.1 and 10&lt;/li&gt;
-  &lt;li&gt;Apple OS X 10.6, 10.7, 10.8, 10.9, 10.10, 10.11&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;The Licensee will not use the Network or internet connection provided by Spacekraft to conduct illegal activities (illegal activities are those which are considered criminal acts in British Columbia or Canada - examples: wire fraud, distributing child pornography, hatemail, etc.).&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;The Licensee will not disrupt the normal functioning of the Spacekraft network by altering it via software (e.g. DDOS attacks or any other activity that would result in loss of service) or hardware (cutting cables, damaging routers, etc.).&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;The Licensee’s outgoing communications (which are tied to Spacekraft’s IP addresses) will comply with Canada’s Anti-Spam Legislation so that our IP addresses are not blacklisted from incoming mail servers worldwide.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;The Licensee will not access other Spacekraft Licensees’ computer systems or software as a service (SAAS - e.g. webmail) without their explicit authorization.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;The Licensee will not engage in activities that could violate our service agreement with our ISP (Tech Futures Interactive Inc.). Examples: disseminating materials that violate copyright or intellectual property rights (read - torrents). More information on Tech Futures Acceptable Use Policy can be found on their website, www.techfutures.xyz&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;The Licensee will not make unauthorized attempts to collect and/or disclose personal information of your fellow Spacekraft users.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;The Licensee will not make unauthorized attempts to circumvent computer security methods, operating systems or probing for exposures in other systems or networks.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;To ensure fair network access for all users, Spacekraft at its sole discretion may mange the network using the following methods:&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Rate limiting the speed and/or bandwidth available for wireless or wired connections&lt;/li&gt;
-  &lt;li&gt;Filtering or restricting certain content or protocols&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;The Licensee agrees that Spacekraft may without notice, and at its sole discretion monitor and review all network traffic.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;To ensure the performance and security of the network, no devices that create their own wireless signal or devices that increase the number of wired ports may be used on Spacekraft’s network. Such devices could be but is not limited to:&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Portable Wi-Fi hotspots&lt;/li&gt;
-  &lt;li&gt;Wireless routers&lt;/li&gt;
-  &lt;li&gt;Printers with direct wireless printing&lt;/li&gt;
-  &lt;li&gt;Switches&lt;/li&gt;
-  &lt;li&gt;Routers&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;If such a device is required, it must be pre-approved by Spacekraft before its use on the network. Any device not pre-approved will be automatically blocked.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;The Licensee is not permitted to operate any servers that would serve content outside the Spacekraft network such as but not limited to email, web or voice servers.&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">Below is a copy of the CMPNY IT Policy, as per the member agreement.</summary></entry></feed>
+&lt;p&gt;If it does, please wait 5-10 seconds and try again. This is caused when the printer is in sleep mode for an extended period of time.&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html"></summary></entry></feed>
