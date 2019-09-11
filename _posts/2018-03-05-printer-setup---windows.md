@@ -7,18 +7,9 @@ description: Add the HP Printer to a Windows computer
 type: Document
 ---
 
-<u><em><strong></strong></em></u>Install the drivers and client app or use email-to-print to quickly get started. Spacekraft Print Services powered by Tech Futures provides full colour, black and white full duplex printing, automatic stapling, scanning, fax and copying capabilities.&nbsp;
+## Step 1: Request a print account to be setup.
 
-Please note that that the links below will only work if you are connected to "Spacekraft" wifi network.
-
-## Step 1: Create an Account
-
-Email support@cmpny.com to have a print account setup for you with the following information.
-
-* First/Last Name:
-* Company Name:
-* Email Address:
-* Preferred Password:
+## &nbsp;
 
 ## Step 2: Download drivers and client app
 
@@ -30,7 +21,7 @@ Once you have downloaded the client app zip folder, extract it first then launch
 
 ![](/uploads/client-install-complete.JPG)
 
-You may be prompted to login using the same username and password as in step 1.
+You may be prompted to login using the username and password that was emailed to you.
 
 ![](/uploads/papercut-login.JPG)
 
@@ -84,7 +75,7 @@ The first time you print a document a popup window will appear requiring your us
 
 ![](/uploads/login-required-for-pritner-access.JPG)
 
-Success!
+Success\!
 
 If you have successfully printed a document, a message will appear saying your document has been held in a queue.
 
